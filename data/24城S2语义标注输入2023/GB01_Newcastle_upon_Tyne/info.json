@@ -1,0 +1,29 @@
+{
+ "id": "GB01",
+ "name": "Newcastle upon Tyne",
+ "epsg": 32630,
+ "radius_km": 20.0,
+ "date": "2023-06-13",
+ "scenes": [
+  "S2A_T30UWF_20230613T112117_L2A",
+  "S2A_T30UWG_20230613T112117_L2A",
+  "S2A_T30UXF_20230613T112117_L2A",
+  "S2A_T30UXG_20230613T112117_L2A"
+ ],
+ "cloud_max_pct": 8.1,
+ "cover": null,
+ "cn": "纽卡斯尔",
+ "country": "United Kingdom",
+ "lon": -1.55012,
+ "lat": 54.98824,
+ "utm_center": [
+  592770.44,
+  6094444.24
+ ],
+ "utm_bbox": [
+  572770,
+  6074440,
+  612780,
+  6114450
+ ]
+}

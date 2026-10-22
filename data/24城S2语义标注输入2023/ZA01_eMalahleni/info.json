@@ -1,0 +1,27 @@
+{
+ "id": "ZA01",
+ "name": "eMalahleni",
+ "epsg": 32735,
+ "radius_km": 20.0,
+ "date": "2023-08-14",
+ "scenes": [
+  "S2B_T35JPM_20230814T081359_L2A",
+  "S2B_T35JQM_20230814T081359_L2A"
+ ],
+ "cloud_max_pct": 0.00075,
+ "cover": 1.25,
+ "cn": "eMalahleni",
+ "country": "South Africa",
+ "lon": 29.22906,
+ "lat": -25.89165,
+ "utm_center": [
+  723318.46,
+  7134417.6
+ ],
+ "utm_bbox": [
+  703310,
+  7114410,
+  743320,
+  7154420
+ ]
+}

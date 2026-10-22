@@ -1,0 +1,27 @@
+{
+ "id": "US01",
+ "name": "Gillette",
+ "epsg": 32613,
+ "radius_km": 20.0,
+ "date": "2023-07-18",
+ "scenes": [
+  "S2B_T13TDJ_20230718T180705_L2A",
+  "S2B_T13TDK_20230718T180705_L2A"
+ ],
+ "cloud_max_pct": 4e-06,
+ "cover": 1.1666666666666667,
+ "cn": "吉列",
+ "country": "United States",
+ "lon": -105.5,
+ "lat": 44.29,
+ "utm_center": [
+  460108.7,
+  4904204.87
+ ],
+ "utm_bbox": [
+  440100,
+  4884200,
+  480110,
+  4924210
+ ]
+}

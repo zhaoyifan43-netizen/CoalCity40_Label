@@ -1,0 +1,26 @@
+{
+ "id": "ZA02",
+ "name": "Middelburg",
+ "epsg": 32735,
+ "radius_km": 20.0,
+ "date": "2023-08-19",
+ "scenes": [
+  "S2A_T35JQM_20230819T080821_L2A"
+ ],
+ "cloud_max_pct": 1.7e-05,
+ "cover": 1.0,
+ "cn": "米德尔堡",
+ "country": "South Africa",
+ "lon": 29.45095,
+ "lat": -25.76802,
+ "utm_center": [
+  745812.06,
+  7147719.53
+ ],
+ "utm_bbox": [
+  725810,
+  7127710,
+  765820,
+  7167720
+ ]
+}

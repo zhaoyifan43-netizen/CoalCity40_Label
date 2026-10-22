@@ -1,0 +1,4 @@
+﻿facility,latitude_wgs84,longitude_wgs84,coordinate_grade,status_2023,location_status,assigned_candidate_pixels,decision_note
+Datong No.2 Power Plant,40.02816,113.29417,OSM industrial parcel,2023 operating,inside CUFR,321,Class 11 assigned only to image-derived built/industrial candidate pixels within 250 m; inspect boundary
+Tashan Power Plant Phase I,39.9252,113.0819,OSM industrial parcel; outside 20km CUFR by survey,2023 operating,outside CUFR or raster,0,No class-11 assignment; facility is not within this CUFR grid
+Sujin Tashan Power Plant Phase II,39.92497,113.08563,OSM industrial parcel; outside 20km CUFR by survey,2023 operating,outside CUFR or raster,0,No class-11 assignment; facility is not within this CUFR grid

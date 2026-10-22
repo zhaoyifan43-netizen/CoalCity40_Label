@@ -1,0 +1,24 @@
+{
+ "id": "CN02",
+ "name": "Ordos",
+ "epsg": 32649,
+ "radius_km": 20.0,
+ "date": "2023-06-12",
+ "scenes": [],
+ "cloud_max_pct": null,
+ "cover": null,
+ "cn": "鄂尔多斯",
+ "country": "China",
+ "lon": 109.99,
+ "lat": 39.6,
+ "utm_center": [
+  413284.92,
+  4383849.88
+ ],
+ "utm_bbox": [
+  393280,
+  4363840,
+  433290,
+  4403850
+ ]
+}

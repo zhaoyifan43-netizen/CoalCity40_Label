@@ -1,0 +1,28 @@
+CoalCity-40 Datong batch pre-annotation v2
+STATUS: provisional only; not final ground truth
+Input: D:\CoalCity\input\CN01_Datong
+CUFR boundary: D:\CoalCity\input\CN01_Datong\CN01_CUFR_circle_UTM.geojson
+Grid: 4001 x 4001; CUFR pixels=12562650
+Scipy connected-component filtering: True
+Minimum component pixels: 9
+Evidence polygons used:
+  NONE. Coal classes 8-12 remain review candidates; no automatic semantic confirmation performed.
+
+Component filter notes:
+  water: removed components smaller than 4 pixels
+  tree vegetation: removed components smaller than 9 pixels
+  grass vegetation: removed components smaller than 9 pixels
+  strict bare: removed components smaller than 9 pixels
+  dense built: removed components smaller than 9 pixels
+  sparse built: removed components smaller than 9 pixels
+
+Rules/limitations:
+- Bare-ground class 5 is strict; ambiguous exposed land remains review candidate.
+- Vegetation labels require SCL + NDVI + local neighborhood consistency; ambiguous vegetation remains 255.
+- Built-up classes 0/1 are heuristic provisional, not verified building extraction.
+- Cropland and roads are candidate-only; spectral data alone cannot establish land use/linear road boundaries robustly.
+- Coal classes 8-12 are assigned only where independently verified evidence polygons are supplied. Spectral candidates are not semantic confirmation.
+- v2.1 conflict detection only uses masks eligible for provisional label assignment; broad bare, crop, road and coal candidate masks do not erase labels.
+- Coal candidate rules were narrowed; they are still investigation hints, not automatic coal-function confirmation.
+- Class conflicts are set to 255. SCL Ignore classes remain 255.
+- Output does not overwrite v1 and does not mark any annotation as human-verified.

@@ -1,0 +1,19 @@
+{
+  "syntax_pass": true,
+  "real_input_window_test_pass": true,
+  "strip_halo_matches_whole_window": true,
+  "all_pixels_marked_requires_review": true,
+  "coal_function_not_auto_assigned": true,
+  "QGIS_Windows_end_to_end_tested": false,
+  "sample_pixels": 409600,
+  "sample_candidate_counts": {
+    "0": 131057,
+    "1": 60330,
+    "2": 10997,
+    "3": 1,
+    "4": 73726,
+    "5": 115205,
+    "6": 3,
+    "255": 18281
+  }
+}

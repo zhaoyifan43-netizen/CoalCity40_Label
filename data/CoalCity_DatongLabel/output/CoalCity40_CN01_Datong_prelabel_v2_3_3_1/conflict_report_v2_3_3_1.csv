@@ -1,0 +1,8 @@
+﻿issue,pixel_count,handling
+candidate_label_overlap,5262241,多个候选同时命中；candidate_labels_all 依据固定优先级输出一个暂定候选标签，仍需复核
+generic_candidate_overlap,214,两个或更多通用候选家族重叠；复合标签回退为 255
+evidence_polygon_overlap,0,多个煤炭功能证据多边形重叠；回退为 255，需解决证据冲突
+uncertain_bare,4864899,可能为普通裸地、施工地或煤炭相关裸露地表，未强制定类
+unclassified_clear_review,7441027,有效且非 SCL Ignore 像素仍未进入可靠标签；供集中复核，不自动写为其他类别
+uncertain_vegetation,562495,植被类型无法仅靠当前影像可靠细分
+small_components_removed,444945,小斑块从部分候选类别中移出，供复核；未直接改写原始数据

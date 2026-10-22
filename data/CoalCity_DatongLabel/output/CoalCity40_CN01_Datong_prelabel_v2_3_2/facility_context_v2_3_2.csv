@@ -1,0 +1,12 @@
+﻿facility,latitude_wgs84,longitude_wgs84,class_hint,coordinate_grade,status_2023,pixel_x,pixel_y,limitation
+Tongxin Coal Mine,40.013182,113.103349,8,GEM exact,2023 operating,688,2605,locator buffer only; image-visible boundary required
+Zhongmei Tashan Coal Mine,39.950913,113.08686,8,OSM-village checked; not GEM exact,2023 operating,563,3299,locator buffer only; image-visible boundary required
+Yungang Mine,40.11977,113.07991,8,OSM industrial parcel,2023 operating,460,1426,locator buffer only; image-visible boundary required
+Jinhua Gong Mine,40.09963,113.15252,8,OSM industrial parcel,2023 operating,1084,1635,locator buffer only; image-visible boundary required
+Meiyukou Mine,40.03058,113.13136,8,OSM industrial parcel,2023 operating,922,2406,locator buffer only; image-visible boundary required
+Xinzhouyao Mine,40.04671,113.1176,8,OSM station vicinity,closed 2023-04; image date matters,801,2230,locator buffer only; image-visible boundary required
+Tashan Baidong Shaft,40.00086,113.05566,8,OSM station vicinity,2023 operating,284,2751,locator buffer only; image-visible boundary required
+Datong No.2 Power Plant,40.02816,113.29417,11,OSM industrial parcel,2023 operating,2312,2398,locator buffer only; image-visible boundary required
+Tongmei Datang Tashan Mine,39.924229,113.070254,8,GEM exact; outside 20km CUFR by survey,2023 operating,428,3599,locator buffer only; image-visible boundary required
+Tashan Power Plant Phase I,39.9252,113.0819,11,OSM industrial parcel; outside 20km CUFR by survey,2023 operating,528,3585,locator buffer only; image-visible boundary required
+Sujin Tashan Power Plant Phase II,39.92497,113.08563,11,OSM industrial parcel; outside 20km CUFR by survey,2023 operating,560,3587,locator buffer only; image-visible boundary required
