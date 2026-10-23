@@ -1,0 +1,26 @@
+{
+ "id": "CO01",
+ "name": "Cerrejón mine + buffer",
+ "epsg": 32618,
+ "radius_km": 20.0,
+ "date": "2023-01-28",
+ "scenes": [
+  "S2B_T18PYT_20230128T152835_L2A"
+ ],
+ "cloud_max_pct": 0.281641,
+ "cover": 1.0,
+ "cn": "塞雷洪",
+ "country": "Colombia",
+ "lon": -72.75,
+ "lat": 11.11,
+ "utm_center": [
+  745765.94,
+  1229072.44
+ ],
+ "utm_bbox": [
+  725760,
+  1209070,
+  765770,
+  1249080
+ ]
+}

@@ -1,0 +1,578 @@
+[
+ {
+  "id": "CN01",
+  "name": "Datong",
+  "cn": "大同",
+  "country": "China",
+  "lon": 113.25882,
+  "lat": 40.06473,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32649,
+  "utm_center": [
+   692638.67,
+   4437386.48
+  ],
+  "utm_bbox": [
+   672630,
+   4417380,
+   712640,
+   4457390
+  ]
+ },
+ {
+  "id": "CN02",
+  "name": "Ordos",
+  "cn": "鄂尔多斯",
+  "country": "China",
+  "lon": 109.99,
+  "lat": 39.6,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32649,
+  "utm_center": [
+   413284.92,
+   4383849.88
+  ],
+  "utm_bbox": [
+   393280,
+   4363840,
+   433290,
+   4403850
+  ]
+ },
+ {
+  "id": "CN03",
+  "name": "Yulin",
+  "cn": "榆林",
+  "country": "China",
+  "lon": 109.74607,
+  "lat": 38.2427,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32649,
+  "utm_center": [
+   390270.04,
+   4233486.96
+  ],
+  "utm_bbox": [
+   370270,
+   4213480,
+   410280,
+   4253490
+  ]
+ },
+ {
+  "id": "CN04",
+  "name": "Pingdingshan",
+  "cn": "平顶山",
+  "country": "China",
+  "lon": 113.30078,
+  "lat": 33.73944,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32649,
+  "utm_center": [
+   713140.69,
+   3735643.87
+  ],
+  "utm_bbox": [
+   693140,
+   3715640,
+   733150,
+   3755650
+  ]
+ },
+ {
+  "id": "CN05",
+  "name": "Huainan",
+  "cn": "淮南",
+  "country": "China",
+  "lon": 116.95854,
+  "lat": 32.62451,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32650,
+  "utm_center": [
+   496110.66,
+   3609662.1
+  ],
+  "utm_bbox": [
+   476110,
+   3589660,
+   516120,
+   3629670
+  ]
+ },
+ {
+  "id": "CN06",
+  "name": "Liupanshui",
+  "cn": "六盘水",
+  "country": "China",
+  "lon": 104.86108,
+  "lat": 26.57665,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32648,
+  "utm_center": [
+   486165.78,
+   2939554.24
+  ],
+  "utm_bbox": [
+   466160,
+   2919550,
+   506170,
+   2959560
+  ]
+ },
+ {
+  "id": "CN07",
+  "name": "Fushun",
+  "cn": "抚顺",
+  "country": "China",
+  "lon": 123.86619,
+  "lat": 41.87071,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32651,
+  "utm_center": [
+   571881.13,
+   4635784.14
+  ],
+  "utm_bbox": [
+   551880,
+   4615780,
+   591890,
+   4655790
+  ]
+ },
+ {
+  "id": "CN08",
+  "name": "Jixi",
+  "cn": "鸡西",
+  "country": "China",
+  "lon": 130.95895,
+  "lat": 45.30766,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32652,
+  "utm_center": [
+   653566.44,
+   5018995.07
+  ],
+  "utm_bbox": [
+   633560,
+   4998990,
+   673570,
+   5039000
+  ]
+ },
+ {
+  "id": "IN01",
+  "name": "Dhanbad",
+  "cn": "丹巴德",
+  "country": "India",
+  "lon": 86.40766,
+  "lat": 23.75472,
+  "radius_km": 20.0,
+  "window": [
+   1,
+   4
+  ],
+  "epsg": 32645,
+  "utm_center": [
+   439638.09,
+   2627196.75
+  ],
+  "utm_bbox": [
+   419630,
+   2607190,
+   459640,
+   2647200
+  ]
+ },
+ {
+  "id": "IN02",
+  "name": "Korba",
+  "cn": "科尔巴",
+  "country": "India",
+  "lon": 82.72894,
+  "lat": 22.37068,
+  "radius_km": 20.0,
+  "window": [
+   1,
+   4
+  ],
+  "epsg": 32644,
+  "utm_center": [
+   678014.45,
+   2474879.41
+  ],
+  "utm_bbox": [
+   658010,
+   2454870,
+   698020,
+   2494880
+  ]
+ },
+ {
+  "id": "ID01",
+  "name": "Samarinda",
+  "cn": "三马林达",
+  "country": "Indonesia",
+  "lon": 117.15271,
+  "lat": -0.4975,
+  "radius_km": 20.0,
+  "window": [
+   9,
+   11
+  ],
+  "epsg": 32750,
+  "utm_center": [
+   516992.18,
+   9945011.09
+  ],
+  "utm_bbox": [
+   496990,
+   9925010,
+   537000,
+   9965020
+  ]
+ },
+ {
+  "id": "RU01",
+  "name": "Kemerovo",
+  "cn": "克麦罗沃",
+  "country": "Russia",
+  "lon": 86.09264,
+  "lat": 55.35671,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32645,
+  "utm_center": [
+   442474.43,
+   6134861.68
+  ],
+  "utm_bbox": [
+   422470,
+   6114860,
+   462480,
+   6154870
+  ]
+ },
+ {
+  "id": "KZ01",
+  "name": "Karaganda",
+  "cn": "卡拉干达",
+  "country": "Kazakhstan",
+  "lon": 73.10499,
+  "lat": 49.79263,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32643,
+  "utm_center": [
+   363611.03,
+   5517297.6
+  ],
+  "utm_bbox": [
+   343610,
+   5497290,
+   383620,
+   5537300
+  ]
+ },
+ {
+  "id": "DE01",
+  "name": "Essen",
+  "cn": "埃森",
+  "country": "Germany",
+  "lon": 6.9682,
+  "lat": 51.49028,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32632,
+  "utm_center": [
+   358943.81,
+   5706305.61
+  ],
+  "utm_bbox": [
+   338940,
+   5686300,
+   378950,
+   5726310
+  ]
+ },
+ {
+  "id": "PL01",
+  "name": "Katowice",
+  "cn": "卡托维兹",
+  "country": "Poland",
+  "lon": 18.92166,
+  "lat": 50.28927,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32634,
+  "utm_center": [
+   351953.0,
+   5572859.89
+  ],
+  "utm_bbox": [
+   331950,
+   5552850,
+   371960,
+   5592860
+  ]
+ },
+ {
+  "id": "CZ01",
+  "name": "Ostrava",
+  "cn": "俄斯特拉发",
+  "country": "Czechia",
+  "lon": 18.25909,
+  "lat": 49.81622,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32634,
+  "utm_center": [
+   302831.74,
+   5521801.76
+  ],
+  "utm_bbox": [
+   282830,
+   5501800,
+   322840,
+   5541810
+  ]
+ },
+ {
+  "id": "GB01",
+  "name": "Newcastle upon Tyne",
+  "cn": "纽卡斯尔",
+  "country": "United Kingdom",
+  "lon": -1.55012,
+  "lat": 54.98824,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32630,
+  "utm_center": [
+   592770.44,
+   6094444.24
+  ],
+  "utm_bbox": [
+   572770,
+   6074440,
+   612780,
+   6114450
+  ]
+ },
+ {
+  "id": "US01",
+  "name": "Gillette",
+  "cn": "吉列",
+  "country": "United States",
+  "lon": -105.5,
+  "lat": 44.29,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32613,
+  "utm_center": [
+   460108.7,
+   4904204.87
+  ],
+  "utm_bbox": [
+   440100,
+   4884200,
+   480110,
+   4924210
+  ]
+ },
+ {
+  "id": "US02",
+  "name": "Charleston",
+  "cn": "查尔斯顿",
+  "country": "United States",
+  "lon": -79.93,
+  "lat": 32.77,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32617,
+  "utm_center": [
+   600215.91,
+   3626296.13
+  ],
+  "utm_bbox": [
+   580210,
+   3606290,
+   620220,
+   3646300
+  ]
+ },
+ {
+  "id": "AU01",
+  "name": "Newcastle",
+  "cn": "纽卡斯尔",
+  "country": "Australia",
+  "lon": 151.713,
+  "lat": -32.92743,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32756,
+  "utm_center": [
+   379671.32,
+   6356023.44
+  ],
+  "utm_bbox": [
+   359670,
+   6336020,
+   399680,
+   6376030
+  ]
+ },
+ {
+  "id": "AU02",
+  "name": "Mackay",
+  "cn": "麦凯",
+  "country": "Australia",
+  "lon": 149.19,
+  "lat": -21.14,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32755,
+  "utm_center": [
+   727432.44,
+   7660789.95
+  ],
+  "utm_bbox": [
+   707430,
+   7640780,
+   747440,
+   7680790
+  ]
+ },
+ {
+  "id": "ZA01",
+  "name": "eMalahleni",
+  "cn": "eMalahleni",
+  "country": "South Africa",
+  "lon": 29.22906,
+  "lat": -25.89165,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32735,
+  "utm_center": [
+   723318.46,
+   7134417.6
+  ],
+  "utm_bbox": [
+   703310,
+   7114410,
+   743320,
+   7154420
+  ]
+ },
+ {
+  "id": "ZA02",
+  "name": "Middelburg",
+  "cn": "米德尔堡",
+  "country": "South Africa",
+  "lon": 29.45095,
+  "lat": -25.76802,
+  "radius_km": 20.0,
+  "window": [
+   6,
+   9
+  ],
+  "epsg": 32735,
+  "utm_center": [
+   745812.06,
+   7147719.53
+  ],
+  "utm_bbox": [
+   725810,
+   7127710,
+   765820,
+   7167720
+  ]
+ },
+ {
+  "id": "CO01",
+  "name": "Cerrejón mine + buffer",
+  "cn": "塞雷洪",
+  "country": "Colombia",
+  "lon": -72.75,
+  "lat": 11.11,
+  "radius_km": 20.0,
+  "window": [
+   12,
+   3
+  ],
+  "epsg": 32618,
+  "utm_center": [
+   745765.94,
+   1229072.44
+  ],
+  "utm_bbox": [
+   725760,
+   1209070,
+   765770,
+   1249080
+  ]
+ }
+]

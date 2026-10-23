@@ -1,0 +1,24 @@
+{
+ "id": "CN05",
+ "name": "Huainan",
+ "epsg": 32650,
+ "radius_km": 20.0,
+ "date": "2023-09-01",
+ "scenes": [],
+ "cloud_max_pct": null,
+ "cover": null,
+ "cn": "淮南",
+ "country": "China",
+ "lon": 116.95854,
+ "lat": 32.62451,
+ "utm_center": [
+  496110.66,
+  3609662.1
+ ],
+ "utm_bbox": [
+  476110,
+  3589660,
+  516120,
+  3629670
+ ]
+}

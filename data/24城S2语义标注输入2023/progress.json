@@ -1,0 +1,235 @@
+{
+ "CN01": {
+  "status": "done",
+  "date": "2023-06-29",
+  "scenes": [
+   "S2A_T49TFE_20230629T032453_L2A",
+   "S2A_T49TGE_20230629T032453_L2A",
+   "S2A_T50TKK_20230629T032453_L2A"
+  ],
+  "cloud": 0.437341,
+  "cover": 1.277777777777778
+ },
+ "CN02": {
+  "status": "done",
+  "date": "2023-06-12"
+ },
+ "CN03": {
+  "status": "done",
+  "date": "2023-07-17",
+  "scenes": [
+   "S2B_T49SCC_20230717T033409_L2A",
+   "S2B_T49SDC_20230717T033409_L2A"
+  ],
+  "cloud": 0.092103,
+  "cover": 1.2777777777777777
+ },
+ "CN04": {
+  "status": "done",
+  "date": "2023-06-06",
+  "scenes": [
+   "S2A_T49SFT_20230606T031832_L2A",
+   "S2A_T49SGT_20230606T031832_L2A",
+   "S2A_T49SFT_20230606T031217_L2A"
+  ],
+  "cloud": 6.005053,
+  "cover": 1.3055555555555556
+ },
+ "CN05": {
+  "status": "done",
+  "date": "2023-09-01"
+ },
+ "CN06": {
+  "status": "done",
+  "date": "2023-07-15",
+  "scenes": [
+   "S2A_T48RVQ_20230715T034748_L2A",
+   "S2A_T48RWQ_20230715T034748_L2A"
+  ],
+  "cloud": 6.854735,
+  "cover": 1.25
+ },
+ "CN07": {
+  "status": "done",
+  "date": "2023-06-17",
+  "scenes": [
+   "S2A_T51TWG_20230617T024021_L2A"
+  ],
+  "cloud": 0.000853,
+  "cover": 1.0
+ },
+ "CN08": {
+  "status": "done",
+  "date": "2023-09-14",
+  "scenes": [
+   "S2B_T52TFQ_20230914T021858_L2A",
+   "S2B_T52TFR_20230914T021858_L2A"
+  ],
+  "cloud": 0.250015,
+  "cover": 1.0833333333333333
+ },
+ "IN01": {
+  "status": "done",
+  "date": "2023-01-12",
+  "scenes": [
+   "S2B_T45QVG_20230112T045702_L2A"
+  ],
+  "cloud": 4.6e-05,
+  "cover": 1.0
+ },
+ "IN02": {
+  "status": "done",
+  "date": "2023-03-01",
+  "scenes": [
+   "S2A_T44QPK_20230301T050156_L2A",
+   "S2A_T44QPK_20230301T051224_L2A",
+   "S2A_T44QPL_20230301T050156_L2A",
+   "S2A_T44QPL_20230301T051224_L2A"
+  ],
+  "cloud": null,
+  "cover": null
+ },
+ "US02": {
+  "status": "done",
+  "date": "2023-08-01",
+  "scenes": [
+   "S2B_T17SNS_20230801T160859_L2A",
+   "S2B_T17SPS_20230801T160859_L2A"
+  ],
+  "cloud": 10.730356,
+  "cover": 1.1666666666666665
+ },
+ "RU01": {
+  "status": "done",
+  "date": "2023-06-06",
+  "scenes": [
+   "S2B_T45UVB_20230606T054202_L2A"
+  ],
+  "cloud": 0.000974,
+  "cover": 1.0
+ },
+ "KZ01": {
+  "status": "done",
+  "date": "2023-06-03",
+  "scenes": [
+   "S2A_T43UCQ_20230603T062224_L2A",
+   "S2A_T42UYA_20230603T062224_L2A",
+   "S2A_T43UCR_20230603T062224_L2A"
+  ],
+  "cloud": 0.016109,
+  "cover": 1.9166666666666667
+ },
+ "PL01": {
+  "status": "done",
+  "date": "2023-08-15",
+  "scenes": [
+   "S2A_T33UYR_20230815T095630_L2A",
+   "S2A_T34UCA_20230815T095630_L2A",
+   "S2A_T33UYS_20230815T095630_L2A",
+   "S2A_T34UCB_20230815T095630_L2A"
+  ],
+  "cloud": 1.143739,
+  "cover": 2.4722222222222223
+ },
+ "DE01": {
+  "status": "done",
+  "date": "2023-09-09",
+  "scenes": [
+   "S2A_T31UGS_20230909T104403_L2A",
+   "S2A_T32ULB_20230909T104403_L2A",
+   "S2A_T31UGT_20230909T104403_L2A",
+   "S2A_T32ULC_20230909T104403_L2A"
+  ],
+  "cloud": 0.881158,
+  "cover": 2.5
+ },
+ "CZ01": {
+  "status": "done",
+  "date": "2023-08-15",
+  "scenes": [
+   "S2A_T33UYR_20230815T095630_L2A",
+   "S2A_T34UCA_20230815T095630_L2A"
+  ],
+  "cloud": 0.027389,
+  "cover": 1.5277777777777777
+ },
+ "GB01": {
+  "status": "done",
+  "date": "2023-06-13",
+  "scenes": [
+   "S2A_T30UWF_20230613T112117_L2A",
+   "S2A_T30UWG_20230613T112117_L2A",
+   "S2A_T30UXF_20230613T112117_L2A",
+   "S2A_T30UXG_20230613T112117_L2A"
+  ],
+  "cloud": 8.1,
+  "cover": null
+ },
+ "US01": {
+  "status": "done",
+  "date": "2023-07-18",
+  "scenes": [
+   "S2B_T13TDJ_20230718T180705_L2A",
+   "S2B_T13TDK_20230718T180705_L2A"
+  ],
+  "cloud": 4e-06,
+  "cover": 1.1666666666666667
+ },
+ "AU01": {
+  "status": "done",
+  "date": "2023-09-16",
+  "scenes": [
+   "S2B_T56HLJ_20230916T000412_L2A"
+  ],
+  "cloud": 0.004262,
+  "cover": 1.0
+ },
+ "AU02": {
+  "status": "done",
+  "date": "2023-06-29",
+  "scenes": [
+   "S2A_T55KFS_20230629T002058_L2A",
+   "S2A_T55KGS_20230629T002058_L2A"
+  ],
+  "cloud": 0.097959,
+  "cover": 1.1388888888888888
+ },
+ "ZA01": {
+  "status": "done",
+  "date": "2023-08-14",
+  "scenes": [
+   "S2B_T35JPM_20230814T081359_L2A",
+   "S2B_T35JQM_20230814T081359_L2A"
+  ],
+  "cloud": 0.00075,
+  "cover": 1.25
+ },
+ "ZA02": {
+  "status": "done",
+  "date": "2023-08-19",
+  "scenes": [
+   "S2A_T35JQM_20230819T080821_L2A"
+  ],
+  "cloud": 1.7e-05,
+  "cover": 1.0
+ },
+ "CO01": {
+  "status": "done",
+  "date": "2023-01-28",
+  "scenes": [
+   "S2B_T18PYT_20230128T152835_L2A"
+  ],
+  "cloud": 0.281641,
+  "cover": 1.0
+ },
+ "ID01": {
+  "status": "done",
+  "date": "2023-09-24",
+  "scenes": [
+   "S2B_T50MME_20230924T022642_L2A",
+   "S2B_T50MNE_20230924T022642_L2A"
+  ],
+  "cloud": 29.7,
+  "cover": null
+ }
+}

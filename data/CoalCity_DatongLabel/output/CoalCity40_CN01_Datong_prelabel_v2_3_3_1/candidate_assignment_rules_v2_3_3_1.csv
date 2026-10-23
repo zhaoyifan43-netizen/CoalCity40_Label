@@ -1,0 +1,17 @@
+﻿priority_order,class_id,class_name,rule,overlap_policy,status
+1,0,高密度建成区,image-derived high-density built candidate,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+2,1,低密度建成区,image-derived low-density built candidate,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+3,2,农田,cropland candidate; use/field pattern unverified,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+4,3,林木或高密度植被,tree/high vegetation candidate,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+5,4,草地或稀疏植被,grass/sparse vegetation candidate,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+6,5,裸地,strict bare-ground candidate,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+7,5,裸地,uncertain exposed-ground candidate,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+8,6,水体,ordinary water candidate,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+9,7,道路,road candidate; linear continuity unverified,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+10,8,可观测活跃采掘区,active-mining candidate; function unverified,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+11,9,煤矿废弃物堆场或排土场,waste-dump candidate; function unverified,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+12,10,采煤沉陷水体,possible subsidence water near mine context; unverified,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+13,11,煤炭加工与电力设施,processing/power candidate; facility boundary unverified,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+14,12,煤炭物流基础设施,coal logistics candidate; function unverified,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+15,4,草地或稀疏植被,uncertain vegetation fallback candidate,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only
+16,1,低密度建成区,uncertain built-up fallback candidate,later candidate rule wins in candidate raster; overlap also reported,provisional candidate label only

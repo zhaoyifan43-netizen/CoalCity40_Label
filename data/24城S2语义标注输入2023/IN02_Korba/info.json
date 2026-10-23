@@ -1,0 +1,29 @@
+{
+ "id": "IN02",
+ "name": "Korba",
+ "epsg": 32644,
+ "radius_km": 20.0,
+ "date": "2023-03-01",
+ "scenes": [
+  "S2A_T44QPK_20230301T050156_L2A",
+  "S2A_T44QPK_20230301T051224_L2A",
+  "S2A_T44QPL_20230301T050156_L2A",
+  "S2A_T44QPL_20230301T051224_L2A"
+ ],
+ "cloud_max_pct": null,
+ "cover": null,
+ "cn": "科尔巴",
+ "country": "India",
+ "lon": 82.72894,
+ "lat": 22.37068,
+ "utm_center": [
+  678014.45,
+  2474879.41
+ ],
+ "utm_bbox": [
+  658010,
+  2454870,
+  698020,
+  2494880
+ ]
+}

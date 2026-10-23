@@ -1,0 +1,5412 @@
+{
+ "type": "FeatureCollection",
+ "name": "coal_facilities_24city_2023",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.08686,
+     39.950913
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "中煤塔山煤矿",
+    "type": "井工矿",
+    "section": "2.1 煤矿（井工）",
+    "dist_km": 19.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "原报告坐标经 OSM 上窝寨村（39.9484, 113.0840）验证吻合（相距约 0.4 km，\"上窝寨村北\"）；注：该坐标非 GEM 来源（详见 §4.1）",
+    "status": "在产；2023 年度 A 类煤矿（大同市仅 2 座 A 类之一）；2023-06-05 省生态环境厅批复 420 万 t/a 核定项目环评（晋环审批函〔2023",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.103349,
+     40.013182
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "同忻煤矿",
+    "type": "井工矿（特大型）",
+    "section": "2.1 煤矿（井工）",
+    "dist_km": 14.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM 精确（Tongxin Coal Mine，exact）；地址\"云冈区窑子坡村南\"（天眼查/猎聘），与 GEM 坐标方向一致",
+    "status": "在产；B 类；2010-03 投产；智能化示范矿井",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.07991,
+     40.11977
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "云冈矿（云岗矿）",
+    "type": "井工矿（老矿）",
+    "section": "2.1 煤矿（井工）",
+    "dist_km": 16.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块（landuse=industrial\"云岗矿\"）；百度百科\"大同西郊 17 km、毗邻云冈石窟\"（云冈矿）",
+    "status": "在产（C 类，资源临近枯竭转型中）；1966 奠基、1973 投产；2019-08 起利用北大巷废弃巷道建全球首个零排放压缩空气储能电站（60 MW）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.15252,
+     40.09963
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "晋华宫矿",
+    "type": "井工矿",
+    "section": "2.1 煤矿（井工）",
+    "dist_km": 9.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块（\"晋华宫矿\"工业面）；矿山公园另有独立 OSM 地块（40.1006, 113.1307）",
+    "status": "在产；B 类；累计产煤 1.6 亿余吨；南山井（1975 年投产，年产约 120 万 t）已改建为晋华宫国家矿山公园（与云冈石窟隔河相望，2023 年仍在运营矿",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.13136,
+     40.03058
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "煤峪口矿",
+    "type": "井工矿",
+    "section": "2.1 煤矿（井工）",
+    "dist_km": 11.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块（\"煤峪口矿\"）",
+    "status": "在产；B 类",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.1176,
+     40.04671
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "忻州窑矿",
+    "type": "井工矿（老矿）",
+    "section": "2.1 煤矿（井工）",
+    "dist_km": 12.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 周边（\"忻州窑\"车站节点）；关停信息：财联社 2024-08 报道、晋控煤业 2023Q1 报告",
+    "status": "2023 年度 C 类；2023-04 晋控煤业公告关停（持续亏损矿井退出，2023-04-28 董事会公告口径）——2023 年内状态由在产转为关停",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.05566,
+     40.00086
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "塔山白洞井",
+    "type": "井工矿（同煤大唐塔山所属井）",
+    "section": "2.1 煤矿（井工）",
+    "dist_km": 18.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 周边（\"Baidong/白洞矿\"车站节点）",
+    "status": "在产；C 类（单列于分类名单，非独立法人矿）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.29417,
+     40.02816
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "大同第二发电厂（含二期）",
+    "type": "坑口/路口电厂",
+    "section": "2.2 燃煤电厂",
+    "dist_km": 5.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块（\"国电电力大同发电有限责任公司\"工业面）",
+    "status": "在运；西电东送主力，3 条 500 kV 线路供京津唐；承担大同市 4000 万 m² 供热",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.070254,
+     39.924229
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "同煤大唐塔山煤矿（注意区分中煤塔山）",
+    "type": "井工矿（特大型）",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 22.4,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "GEM 精确（Tashan Coal Mine，exact）；杨家窑村（OSM 39.9184, 113.0699）验证吻合",
+    "status": "在产；B 类；2003 开工、2006 试产、2008-12 国家验收；2022-09-15 曾发生安全事故停产整顿（后复产）；2023Q1 原煤产量 658.",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.0819,
+     39.9252
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "塔山电厂一期（同煤塔山坑口电厂）",
+    "type": "坑口电厂",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 21.6,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "OSM 地块（\"Datong Tashan (Tongmei Tashan Phase I) Power Plant\"）",
+    "status": "在运；2×600 MW 亚临界直接空冷，2008-10 投产；1.5 km 输煤皮带直连塔山煤矿",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.08563,
+     39.92497
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "塔山电厂二期（苏晋塔山）",
+    "type": "坑口电厂",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 21.4,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "OSM 地块（\"Sujin Tashan (Tongmei Tashan Phase II) Power Plant\"）；投产时间：江苏国信官网",
+    "status": "在运；2×660 MW 超临界低热值煤，2016-12 双机投产；\"晋电送苏\"雁淮直流配套电源",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.01667,
+     40.10774
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "四台矿",
+    "type": "井工矿",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 21.1,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "OSM 地块",
+    "status": "在产；C 类",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.03272,
+     39.98217
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "四老沟矿",
+    "type": "井工矿",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 21.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "OSM 地块",
+    "status": "在产；B 类",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.95781,
+     40.04351
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "马脊梁矿",
+    "type": "井工矿",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 25.7,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "OSM 地块",
+    "status": "在产；C 类",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.965,
+     39.951
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "挖金湾矿",
+    "type": "井工矿",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 28.0,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "待核实",
+    "source": "OSM 挖金湾街道历史边界中心（设施级坐标待核实）",
+    "status": "在产；C 类",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.96539,
+     40.09271
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "燕子山矿",
+    "type": "井工矿（特大型）",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 25.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "OSM 地块（\"燕子山矿\"，高山镇）；产能公告：山西省能源局公告〔2026〕第99号",
+    "status": "在产；B 类；1978 始建、1988 投产，设计 400 万 t/a；2026-09 省能源局公告变更后 480 万 t/a（2023 时点仍按 400 万 ",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.028,
+     39.934
+    ]
+   },
+   "properties": {
+    "cid": "CN01",
+    "city": "大同",
+    "name": "炭窑峪煤业",
+    "type": "井工矿",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 24.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "环评",
+    "source": "环评坐标（大同市生态环境局受理公示 2024-09，井田位于口泉乡西南约 13 km）",
+    "status": "在产；B 类；生产规模 45 万 t/a；2024-09 大同市生态环境局受理其接替开采 25 号煤层项目环评（2024 后事项）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.06026,
+     39.482261
+    ]
+   },
+   "properties": {
+    "cid": "CN02",
+    "city": "鄂尔多斯",
+    "name": "布尔台煤矿",
+    "type": "井工矿（特大型）",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 14.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM 精确（GEM Wiki 布尔台条目）；百度百科\"乌兰木伦镇\"佐证（百度百科：布尔台煤矿）；新华网 2023-09-22 报道",
+    "status": "在产；2023 年智能化综放工作面建设成果亮相全国论坛（新华网 2023-09 报道）；属布尔台\"光伏+生态\"沉陷区治理基地",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.13213,
+     39.412064
+    ]
+   },
+   "properties": {
+    "cid": "CN02",
+    "city": "鄂尔多斯",
+    "name": "石圪台煤矿",
+    "type": "井工矿",
+    "section": "三、周边补充（20–50 km，全部 GEM 精确坐标）",
+    "dist_km": 24.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.167259,
+     39.354834
+    ]
+   },
+   "properties": {
+    "cid": "CN02",
+    "city": "鄂尔多斯",
+    "name": "补连塔煤矿",
+    "type": "井工矿（世界单井最大）",
+    "section": "三、周边补充（20–50 km，全部 GEM 精确坐标）",
+    "dist_km": 31.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM；百度百科\"世界单井生产能力最大的井工煤矿\"（百度百科：补连塔煤矿）",
+    "status": "在产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.183865,
+     39.290574
+    ]
+   },
+   "properties": {
+    "cid": "CN02",
+    "city": "鄂尔多斯",
+    "name": "上湾煤矿",
+    "type": "井工矿",
+    "section": "三、周边补充（20–50 km，全部 GEM 精确坐标）",
+    "dist_km": 38.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.201111,
+     39.30742
+    ]
+   },
+   "properties": {
+    "cid": "CN02",
+    "city": "鄂尔多斯",
+    "name": "哈拉沟煤矿",
+    "type": "井工矿",
+    "section": "三、周边补充（20–50 km，全部 GEM 精确坐标）",
+    "dist_km": 37.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.234325,
+     39.263103
+    ]
+   },
+   "properties": {
+    "cid": "CN02",
+    "city": "鄂尔多斯",
+    "name": "大柳塔煤矿",
+    "type": "井工矿（世界最大井工矿之一）",
+    "section": "三、周边补充（20–50 km，全部 GEM 精确坐标）",
+    "dist_km": 42.9,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.489911,
+     38.333283
+    ]
+   },
+   "properties": {
+    "cid": "CN03",
+    "city": "榆林",
+    "name": "袁大滩煤矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km，以下矿井坐标均经 GEM 核实，全部为井工矿）",
+    "dist_km": 24.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM；2025 核增 1000 万 t/a 为 2024 后事项",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.819371,
+     38.506707
+    ]
+   },
+   "properties": {
+    "cid": "CN03",
+    "city": "榆林",
+    "name": "金鸡滩煤矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km，以下矿井坐标均经 GEM 核实，全部为井工矿）",
+    "dist_km": 30.0,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.5059,
+     38.4378
+    ]
+   },
+   "properties": {
+    "cid": "CN03",
+    "city": "榆林",
+    "name": "小纪汗煤矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km，以下矿井坐标均经 GEM 核实，全部为井工矿）",
+    "dist_km": 30.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM；\"2023 核增\"时点待复核，以省能源局公告为准",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.898777,
+     38.556704
+    ]
+   },
+   "properties": {
+    "cid": "CN03",
+    "city": "榆林",
+    "name": "曹家滩煤矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km，以下矿井坐标均经 GEM 核实，全部为井工矿）",
+    "dist_km": 37.4,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM；\"2023 核增至 2500\"时点待复核，以省能源局公告为准",
+    "status": "投产（2020 验收）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.897685,
+     38.557184
+    ]
+   },
+   "properties": {
+    "cid": "CN03",
+    "city": "榆林",
+    "name": "榆树湾煤矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km，以下矿井坐标均经 GEM 核实，全部为井工矿）",
+    "dist_km": 37.4,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.315019,
+     38.431304
+    ]
+   },
+   "properties": {
+    "cid": "CN03",
+    "city": "榆林",
+    "name": "可可盖煤矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km，以下矿井坐标均经 GEM 核实，全部为井工矿）",
+    "dist_km": 43.0,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM；榆林市政策研究督查办公室",
+    "status": "在建（2023 时点未投产；\"十四五\"核心矿井之一，榆林市政府 2025 表述）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     109.248416,
+     38.426298
+    ]
+   },
+   "properties": {
+    "cid": "CN03",
+    "city": "榆林",
+    "name": "大海则煤矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km，以下矿井坐标均经 GEM 核实，全部为井工矿）",
+    "dist_km": 48.0,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM；百度百科\"2023年10月完成整体竣工验收\"；榆林市生态环境局煤矸石综合利用方案（榆林市生态环境局）",
+    "status": "2023-10 完成 2000 万 t/a 项目整体竣工验收（即 2023 年内投产/验收）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.19757,
+     33.789756
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "九矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 11.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产（1959 建成，最老）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.223538,
+     33.784098
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "五矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 8.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.241159,
+     33.787914
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "六矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 7.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产，骨干矿",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.173177,
+     33.813085
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "十一矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 14.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.266048,
+     33.778162
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "四矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 5.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.148819,
+     33.824235
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "香山矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 16.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.303408,
+     33.762409
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "一矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 2.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.302611,
+     33.755676
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "二矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 1.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.349017,
+     33.759798
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "十矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 5.0,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.367701,
+     33.760817
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "十二矿",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 6.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM；2024-01-12 重大煤与瓦斯突出事故（16 人遇难，国务院安委会挂牌督办 安委督〔2024〕1号）——央视报道、澎湃新闻",
+    "status": "投产；2023 年内正常生产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.426262,
+     33.758125
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "八矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 11.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.380083,
+     33.881412
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "十三矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 17.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.416806,
+     33.818644
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "首山一矿",
+    "type": "",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 13.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.89473,
+     34.055418
+    ]
+   },
+   "properties": {
+    "cid": "CN04",
+    "city": "平顶山",
+    "name": "朝川矿一井",
+    "type": "",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 51.4,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "投产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.901389,
+     32.68417
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "平圩电厂",
+    "type": "燃煤电厂",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 8.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM 平圩电厂",
+    "status": "运行中；四期为 2024 后事项（2026 投产）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.995,
+     32.635
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "田家庵电厂",
+    "type": "燃煤热电",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 3.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "维基/百科",
+    "source": "百度百科",
+    "status": "在运；安徽电力\"母厂\"（始建于 1941 年，人民网安徽频道）；2024 规划扩建 1×660 MW 为 2024 后事项",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.05,
+     32.66
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "洛河电厂",
+    "type": "燃煤电厂",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 9.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "维基/百科",
+    "source": "百度百科、百家号行业综述",
+    "status": "在运；一期 2×320 MW 于 2024-07 关停拆除（2024 后事项）；2023 时点一期仍在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.9197,
+     32.7761
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "潘一东矿",
+    "type": "井工煤矿",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 17.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "维基/百科",
+    "source": "百度百科",
+    "status": "2018 年停产，战略保留（2023 影像应表现为停产保留状态，场地仍在）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.9,
+     32.72
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "潘一矿（旧址）",
+    "type": "井工煤矿",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 11.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "估算",
+    "source": "搜狐、省自然资源厅",
+    "status": "2018 年 9 月永久关闭（2023 影像为废弃工业场地）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.892339,
+     32.815477
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "潘二矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 22.1,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.745197,
+     32.824619
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "潘三矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 29.9,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.72,
+     32.78
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "丁集矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 28.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "维基/百科",
+    "source": "百度百科",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.55,
+     32.8
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "顾北矿",
+    "type": "井工+选煤厂",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 42.9,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "估算",
+    "source": "省生态环境厅",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.515103,
+     32.746348
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "张集矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 43.7,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.545709,
+     32.821408
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "顾桥矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 44.4,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.381556,
+     32.774098
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "谢桥矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 56.5,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在运；2024-03 瓦斯爆炸 9 死（2024 后事项）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.45,
+     32.75
+    ]
+   },
+   "properties": {
+    "cid": "CN05",
+    "city": "淮南",
+    "name": "新集一/二矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 49.6,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "维基/百科",
+    "source": "百度百科",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.840545,
+     26.633775
+    ]
+   },
+   "properties": {
+    "cid": "CN06",
+    "city": "六盘水",
+    "name": "大河边矿",
+    "type": "井工煤矿",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 6.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     105.018666,
+     26.574535
+    ]
+   },
+   "properties": {
+    "cid": "CN06",
+    "city": "六盘水",
+    "name": "老鹰山矿",
+    "type": "井工+选煤厂",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 15.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM、市政府",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.7994,
+     26.6967
+    ]
+   },
+   "properties": {
+    "cid": "CN06",
+    "city": "六盘水",
+    "name": "汪家寨矿",
+    "type": "井工煤矿",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 14.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "估算",
+    "source": "钟山区政府",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.7994,
+     26.6967
+    ]
+   },
+   "properties": {
+    "cid": "CN06",
+    "city": "六盘水",
+    "name": "野马寨电厂",
+    "type": "燃煤电厂",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 14.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "估算",
+    "source": "钟山区政府、省能源局",
+    "status": "2018 停运 → 2023-03 2 号机改造完成 → 2023-06 2 号机投入商业运营（2023 年内复产）；3×200MW 机组 2023-12 连轴",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.845,
+     26.594
+    ]
+   },
+   "properties": {
+    "cid": "CN06",
+    "city": "六盘水",
+    "name": "水钢（首钢水城钢铁）",
+    "type": "钢铁/焦化",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 2.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "估算",
+    "source": "市政府",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.7685,
+     26.3247
+    ]
+   },
+   "properties": {
+    "cid": "CN06",
+    "city": "六盘水",
+    "name": "发耳电厂",
+    "type": "燃煤电厂",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 29.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "维基/百科",
+    "source": "百度百科",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.641,
+     26.774
+    ]
+   },
+   "properties": {
+    "cid": "CN06",
+    "city": "六盘水",
+    "name": "大湾煤矿（含露天）",
+    "type": "井工+露天",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 31.0,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "公告坐标",
+    "source": "省自然资源厅",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.884914,
+     41.841828
+    ]
+   },
+   "properties": {
+    "cid": "CN07",
+    "city": "抚顺",
+    "name": "西露天矿·1",
+    "type": "露天矿（已闭坑）",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 3.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块；百度百科；抚顺市发改委",
+    "status": "2019-06 闭坑；2023–2025 持续生态修复复绿（\"工业伤疤\"变绿洲，新华社/辽宁省政府）；2023 影像为大型废弃矿坑+复垦中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.844,
+     41.852
+    ]
+   },
+   "properties": {
+    "cid": "CN07",
+    "city": "抚顺",
+    "name": "西露天矿·2",
+    "type": "露天矿（已闭坑）",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 2.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块；百度百科；抚顺市发改委",
+    "status": "2019-06 闭坑；2023–2025 持续生态修复复绿（\"工业伤疤\"变绿洲，新华社/辽宁省政府）；2023 影像为大型废弃矿坑+复垦中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.961435,
+     41.850168
+    ]
+   },
+   "properties": {
+    "cid": "CN07",
+    "city": "抚顺",
+    "name": "东露天矿",
+    "type": "露天矿（在产）",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 8.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块；百度百科、应急局",
+    "status": "在产；采矿许可证有效期至 2036-03-30（百度百科登记）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9432,
+     41.8326
+    ]
+   },
+   "properties": {
+    "cid": "CN07",
+    "city": "抚顺",
+    "name": "老虎台矿·1",
+    "type": "井工煤矿（在产）",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 7.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 周边；抚顺市政府",
+    "status": "在产（2023 时点正常生产；2025-09 包保\"生产\"）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.9397,
+     41.8461
+    ]
+   },
+   "properties": {
+    "cid": "CN07",
+    "city": "抚顺",
+    "name": "老虎台矿·2",
+    "type": "井工煤矿（在产）",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 6.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 周边；抚顺市政府",
+    "status": "在产（2023 时点正常生产；2025-09 包保\"生产\"）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.0083,
+     41.8465
+    ]
+   },
+   "properties": {
+    "cid": "CN07",
+    "city": "抚顺",
+    "name": "龙凤矿（已关闭）",
+    "type": "井工矿（废弃）",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 12.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 周边（\"龙凤矿东竖井/西竖井\"）",
+    "status": "已关闭（2023 影像为废弃工业场地，竖井遗迹可辨）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.830056,
+     41.819307
+    ]
+   },
+   "properties": {
+    "cid": "CN07",
+    "city": "抚顺",
+    "name": "抚顺矿业中机热电",
+    "type": "燃煤热电",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 6.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     123.95,
+     41.85
+    ]
+   },
+   "properties": {
+    "cid": "CN07",
+    "city": "抚顺",
+    "name": "页岩炼油厂",
+    "type": "油页岩炼制",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 7.3,
+    "within20": 1,
+    "ring": "core",
+    "grade": "维基/百科",
+    "source": "百度百科、齐鲁网",
+    "status": "在产",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.86496,
+     45.34492
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "鸡西电厂（大唐鸡西热电）",
+    "type": "燃煤电厂",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 8.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在运",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.015076,
+     45.340283
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "城山煤矿",
+    "type": "井工",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 5.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM；龙煤集团官网 2023-10",
+    "status": "在产（1980 投产）；2023 年城山矿选煤厂改建成集团首家智能化选煤厂；城山矿入风立井工程开展设计（2023-10 龙煤官网）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.936629,
+     45.203028
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "东山煤矿",
+    "type": "井工",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 11.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM；龙煤集团官网",
+    "status": "在产（1992 投产）；建成首个智能化综采工作面；南部入风井工程井筒 2023 年施工完成",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.132772,
+     45.244291
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "鸡东煤矿",
+    "type": "井工",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 15.3,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在产（1957 建矿）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.109893,
+     45.325451
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "杏花煤矿",
+    "type": "井工",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 12.0,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM；龙煤集团官网",
+    "status": "在产（1986 投产）；首个智能化综采工作面 2023 年内建成投产；东部回风立井工程施工准备阶段",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.091111,
+     45.3425
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "正阳矿（正阳一井）",
+    "type": "井工",
+    "section": "二、主要煤炭设施（CUFR 20 km 内）",
+    "dist_km": 11.0,
+    "within20": 1,
+    "ring": "core",
+    "grade": "待核实",
+    "source": "百度百科、人民网",
+    "status": "在产；2023 年矸石山生态修复（\"昔日矸石山已有成片小草\"，人民网黑龙江频道 2023-10-30）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.238273,
+     45.363124
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "东海煤矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 22.7,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在产（1958 建矿）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.704167,
+     45.411944
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "大通沟煤矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 23.0,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "已停产（2022 后）——2023 影像为废弃/停产场地",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     130.767855,
+     45.143424
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "平岗煤矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 23.6,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM；龙煤集团官网",
+    "status": "在产（1972，突出矿井）；2023 副井提升系统改造施工",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.178054,
+     45.18943
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "荣华一矿",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 21.6,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "在产（2015 投产）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     131.351284,
+     45.37167
+    ]
+   },
+   "properties": {
+    "cid": "CN08",
+    "city": "鸡西",
+    "name": "鸡西益兴煤矿（拟建）",
+    "type": "井工",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 31.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "GEM",
+    "status": "拟建/建设",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.352473,
+     23.740882
+    ]
+   },
+   "properties": {
+    "cid": "IN01",
+    "city": "丹巴德",
+    "name": "Moonidih 煤矿（运营中）——距中心约 5.8 km",
+    "type": "",
+    "section": "1. Moonidih 煤矿（运营中）——距中心约 5.8 km",
+    "dist_km": 5.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 位置：贾坎德邦 Dhanbad 市，Jharia 煤田西区（Cluster No. 11），坐标 23.740882, 86.352473",
+    "status": "- 2023 年前后状态：运营中（2023 时点：运营中）；规划长壁扩建 +2.0 Mtpa（国家重点项目，2021 年印度政府仍列为新矿项目）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.400533,
+     23.681905
+    ]
+   },
+   "properties": {
+    "cid": "IN01",
+    "city": "丹巴德",
+    "name": "Bhowrah（North）煤矿（已关停）——距中心约 8.1 km",
+    "type": "",
+    "section": "2. Bhowrah（North）煤矿（已关停）——距中心约 8.1 km",
+    "dist_km": 8.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 位置：Dhanbad 市东部 Jharia 区（Cluster No. 10），坐标 23.681905, 86.400533",
+    "status": "- 2023 年前后状态：2021 年正式关停（Retired）——2023 时点：已关停",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.4485,
+     23.6581
+    ]
+   },
+   "properties": {
+    "cid": "IN01",
+    "city": "丹巴德",
+    "name": "Chasnala 煤矿（运营中）——距中心约 11.5 km",
+    "type": "",
+    "section": "3. Chasnala 煤矿（运营中）——距中心约 11.5 km",
+    "dist_km": 11.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 位置：Dhanbad 东南，坐标 23.6581, 86.4485",
+    "status": "- 2023 年前后状态：2020 年 11 月因充填砂短缺停产，2022 年 7 月 22 日恢复生产；2023 年 8 月获准扩建至 1.2/1.5 Mtp",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.5457,
+     22.3363
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "Gevra 露天矿（SECL，世界级大矿）——距中心 19.2 km",
+    "type": "",
+    "section": "1. Gevra 露天矿（SECL，世界级大矿）——距中心 19.2 km",
+    "dist_km": 19.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 位置：Korba 区西北部，坐标 22.3363, 82.5457",
+    "status": "- 产能：设计产能 70 Mtpa；2023 年产量 59.11 Mt（印度产量最大单体煤矿之一）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.6667,
+     22.3326
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "Kusmunda 露天矿（SECL）——距中心 7.7 km",
+    "type": "",
+    "section": "2. Kusmunda 露天矿（SECL）——距中心 7.7 km",
+    "dist_km": 7.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 位置：坐标 22.3326, 82.6667",
+    "status": "- 产能：设计产能 75 Mtpa；2023 年产量 49.97 Mt；2024 年获批扩至 75 Mtpa，将成为亚洲最大露天矿（2024 后，批准前 202",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.5442,
+     22.3451
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "Dipka 露天矿（SECL）——距中心 19.2 km",
+    "type": "",
+    "section": "3. Dipka 露天矿（SECL）——距中心 19.2 km",
+    "dist_km": 19.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 位置：坐标 22.3451, 82.5442",
+    "status": "- 产能：设计产能 35 Mtpa；2023 年产量 33.24 Mt；另有 +5 Mtpa 扩建计划（目标 2029 年）（2024 后规划）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.6816,
+     22.3858
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "NTPC Korba 坑口电厂（2600 MW）——距中心 5.2 km",
+    "type": "",
+    "section": "4. NTPC Korba 坑口电厂（2600 MW）——距中心 5.2 km",
+    "dist_km": 5.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 位置：Korba 区 Jamnipal 镇，坐标 22.3858, 82.6816",
+    "status": "- 2023 年前后状态：运营中（2023 时点：运营中），是 Korba 电厂群主力",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.72085,
+     22.37065
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "Dr. Shyama Prasad Mukherjee TPS（CSPGCL 邦属）",
+    "type": "",
+    "section": "5. 其他坑口电厂（Korba 电厂群，OSM 设施级坐标已核实）",
+    "dist_km": 0.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "22.37065, 82.72085",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.71911,
+     22.38528
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "Korba East TPS（CSPGCL 邦属）",
+    "type": "",
+    "section": "5. 其他坑口电厂（Korba 电厂群，OSM 设施级坐标已核实）",
+    "dist_km": 1.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "22.38528, 82.71911",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.67452,
+     22.39454
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "BALCO 自备电厂群（Balco-I 旧厂 + Balco-II/III 新厂）·1",
+    "type": "",
+    "section": "5. 其他坑口电厂（Korba 电厂群，OSM 设施级坐标已核实）",
+    "dist_km": 6.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "旧厂 22.39454, 82.67452；新厂 22.39321, 82.74388 / 22.40143, 82.74497",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.74388,
+     22.39321
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "BALCO 自备电厂群（Balco-I 旧厂 + Balco-II/III 新厂）·2",
+    "type": "",
+    "section": "5. 其他坑口电厂（Korba 电厂群，OSM 设施级坐标已核实）",
+    "dist_km": 2.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "旧厂 22.39454, 82.67452；新厂 22.39321, 82.74388 / 22.40143, 82.74497",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.74497,
+     22.40143
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "BALCO 自备电厂群（Balco-I 旧厂 + Balco-II/III 新厂）·3",
+    "type": "",
+    "section": "5. 其他坑口电厂（Korba 电厂群，OSM 设施级坐标已核实）",
+    "dist_km": 3.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "旧厂 22.39454, 82.67452；新厂 22.39321, 82.74388 / 22.40143, 82.74497",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.68103,
+     22.41415
+    ]
+   },
+   "properties": {
+    "cid": "IN02",
+    "city": "科尔巴",
+    "name": "Hasdeo TPS（= Korba West TPS，CSPGCL 邦属）",
+    "type": "",
+    "section": "5. 其他坑口电厂（Korba 电厂群，OSM 设施级坐标已核实）",
+    "dist_km": 6.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "22.41415, 82.68103",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.1801,
+     -0.498
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "RKBM 煤矿（Raja Kutai Baru Makmur）",
+    "type": "",
+    "section": "1. RKBM 煤矿（Raja Kutai Baru Makmur）",
+    "dist_km": 3.0,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 类型：露天矿（Surface）；坐标 -0.4980, 117.1801（exact），距中心约 3.0 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.229117,
+     -0.496832
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "MSJ 煤矿（Mahakam Sumber Jaya）",
+    "type": "",
+    "section": "2. MSJ 煤矿（Mahakam Sumber Jaya）",
+    "dist_km": 8.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 类型：露天矿；坐标 -0.496832, 117.229117（approximate），距中心约 8.5 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.046164,
+     -0.503249
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Jongkang I 煤矿",
+    "type": "",
+    "section": "3. Jongkang I 煤矿",
+    "dist_km": 11.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 类型：露天/Open Pit；坐标 -0.503249, 117.046164（exact），距中心约 11.9 km",
+    "status": "- 状态：运营中（2019 年投产，计划 2029 年闭矿）；煤种：亚烟煤；用途：动力煤",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.062462,
+     -0.373097
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Embalut 燃煤电厂（60 MW）",
+    "type": "",
+    "section": "4. Embalut 燃煤电厂（60 MW）",
+    "dist_km": 17.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 类型：亚临界燃煤电厂；坐标 -0.373097, 117.062462（exact），距中心约 17.1 km",
+    "status": "- 状态：运营中；业主：PT Cahaya Fajar Kaltim（Jawa Pos Group）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.066308,
+     -0.364211
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Kaltim-4 燃煤电厂（2×100 MW）",
+    "type": "",
+    "section": "5. Kaltim-4 燃煤电厂（2×100 MW）",
+    "dist_km": 17.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 类型：亚临界燃煤电；坐标 -0.364211, 117.0663078（exact），距中心约 17.7 km",
+    "status": "- 状态：运营中；业主：PT Indonesia Energi Dinamika",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.3144,
+     -0.5124
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "SKN 煤矿（Sinar Kumala Naga）",
+    "type": "",
+    "section": "6. SKN 煤矿（Sinar Kumala Naga）",
+    "dist_km": 18.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 类型：露天矿；坐标 -0.5124, 117.3144（exact），距中心约 18.1 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.079411,
+     -0.321863
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Separi 驳船装载设施（Separi barge loading facility）",
+    "type": "",
+    "section": "7. Separi 驳船装载设施（Separi barge loading facility）",
+    "dist_km": 21.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标 -0.321863, 117.079411，距中心约 21.2 km；马哈坎河岸",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.2573,
+     -0.664
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Indomining 煤矿",
+    "type": "",
+    "section": "8. Indomining 煤矿",
+    "dist_km": 21.9,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-0.6640, 117.2573（exact），距中心约 21.9 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.043683,
+     -0.727595
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "BSSR 煤矿（PT Baramulti Suksessarana）",
+    "type": "",
+    "section": "9. BSSR 煤矿（PT Baramulti Suksessarana）",
+    "dist_km": 28.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-0.7275948525, 117.0436827（exact），距中心约 28.3 km；Loa Janan",
+    "status": "- 产能：2023 年产量 5.55 Mt；矿区约 24.6 km²；亚烟煤/动力煤；储量 55 Mt（2012 记录）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.3791,
+     -0.316
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "MMC 煤矿（Mandira Mitra Coalindo）",
+    "type": "",
+    "section": "10. MMC 煤矿（Mandira Mitra Coalindo）",
+    "dist_km": 32.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-0.3160, 117.3791（approx.），距中心约 32.3 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.132998,
+     -0.196807
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Jembayan 煤矿",
+    "type": "",
+    "section": "11. Jembayan 煤矿",
+    "dist_km": 33.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-0.196807, 117.132998（exact），距中心约 33.5 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.33774,
+     -0.803996
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Binamitra 煤矿（Muara Kembang）",
+    "type": "",
+    "section": "12. Binamitra 煤矿（Muara Kembang）",
+    "dist_km": 39.8,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-0.803996, 117.33774，距中心约 39.8 km",
+    "status": "- 状态：搁置（Shelved）；业主：Binamitra Sumberarta",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.195282,
+     -0.911827
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Kaltim-5 燃煤电厂（规划 2×100 MW）",
+    "type": "",
+    "section": "13. Kaltim-5 燃煤电厂（规划 2×100 MW）",
+    "dist_km": 46.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-0.911827, 117.195282（approximate），距中心约 46.3 km",
+    "status": "- 状态：已取消（Cancelled）；曾规划 2×100 MW 亚临界坑口电站（2027/2028）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.25,
+     -1.083333
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Samarinda 外海锚地（Samarinda anchorage）",
+    "type": "",
+    "section": "四、50 km 以外相关设施（供上下文参考，不属重点范围）",
+    "dist_km": 66.0,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "-1.083333, 117.25",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.494589,
+     0.055178
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Kaltim FTP2 电厂",
+    "type": "",
+    "section": "四、50 km 以外相关设施（供上下文参考，不属重点范围）",
+    "dist_km": 72.3,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "0.0551785, 117.4945887",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.78872,
+     -1.17036
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Kaltim Teluk Balikpapan 电厂",
+    "type": "",
+    "section": "四、50 km 以外相关设施（供上下文参考，不属重点范围）",
+    "dist_km": 85.1,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "-1.17036, 116.78872",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.786717,
+     -1.197841
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Balikpapan 煤码头",
+    "type": "",
+    "section": "四、50 km 以外相关设施（供上下文参考，不属重点范围）",
+    "dist_km": 87.9,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "-1.197841, 116.786717",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.220724,
+     0.135698
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Kaltim-3 电厂",
+    "type": "",
+    "section": "四、50 km 以外相关设施（供上下文参考，不属重点范围）",
+    "dist_km": 125.3,
+    "within20": 0,
+    "ring": "background",
+    "grade": "exact(GEM)",
+    "source": "0.135698, 116.220724",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.599032,
+     0.823979
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "Sangatta 煤矿（KPC）",
+    "type": "",
+    "section": "四、50 km 以外相关设施（供上下文参考，不属重点范围）",
+    "dist_km": 155.1,
+    "within20": 0,
+    "ring": "background",
+    "grade": "exact(GEM)",
+    "source": "0.823979, 117.599032",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.096058,
+     -0.458418
+    ]
+   },
+   "properties": {
+    "cid": "ID01",
+    "city": "三马林达",
+    "name": "PT Bukit Baiduri Energi（已核实，升级为 20 km 圈内设施）",
+    "type": "",
+    "section": "1. PT Bukit Baiduri Energi（已核实，升级为 20 km 圈内设施）",
+    "dist_km": 7.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "文献坐标",
+    "source": "- 位置：三马林达北部 Loa Janan 一带（Kutai Kartanegara 县）；矿区采样区中心 -0.458418, 117.096058（文献坐标），距 CUFR 中心约 7.7 km（采样区四角 7.1–8.1 km）——位",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.0932,
+     55.6003
+    ]
+   },
+   "properties": {
+    "cid": "RU01",
+    "city": "克麦罗沃",
+    "name": "Chernigovets 露天矿（SDS-Ugol）——距中心约 27.1 km",
+    "type": "",
+    "section": "1. Chernigovets 露天矿（SDS-Ugol）——距中心约 27.1 km",
+    "dist_km": 27.1,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 位置：克麦罗沃州 Berezovsk（别列佐夫斯基）市附近，坐标 55.6003, 86.0932（GEM 精确）",
+    "status": "- 产能：设计 4.8 Mtpa；2023 年产量约 6 Mt；储量 2.2 亿吨",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.0978,
+     55.5527
+    ]
+   },
+   "properties": {
+    "cid": "RU01",
+    "city": "克麦罗沃",
+    "name": "Kedrovsky 露天矿（KRU）——距中心约 21.8 km",
+    "type": "",
+    "section": "2. Kedrovsky 露天矿（KRU）——距中心约 21.8 km",
+    "dist_km": 21.8,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 位置：Berezovsky 市（克麦罗沃市东北），坐标 55.5527, 86.0978（GEM 精确）",
+    "status": "- 2023 时点状态：运营中（2023-01 曾发生卡车压人致死事故）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     86.1458,
+     54.2994
+    ]
+   },
+   "properties": {
+    "cid": "RU01",
+    "city": "克麦罗沃",
+    "name": "Bachatsky 露天矿（KRU）",
+    "type": "",
+    "section": "备注：超出 50 km 的设施（未落入缓冲，仅背景参考）",
+    "dist_km": 117.6,
+    "within20": 0,
+    "ring": "background",
+    "grade": "exact(GEM)",
+    "source": "- Bachatsky 露天矿（KRU）：位于 Belovo 市郊区，坐标 54.2994, 86.1458（GEM 精确），距中心约 117.6 km。俄罗斯最深露天矿（深度 400 m，矿区约 33 km²），设计约 10 Mtpa，2",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.113928,
+     49.859567
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Kostenko Coal Mine",
+    "type": "井工煤矿",
+    "section": "主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 7.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "49.859567, 73.113928",
+    "status": "2023 产量 0.5 Mt",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.895188,
+     49.773061
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Saranskaya Coal Mine",
+    "type": "井工煤矿",
+    "section": "主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 15.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "49.773061, 72.895188",
+    "status": "2023 产量 1.3 Mt",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.237172,
+     49.916732
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Karaganda CHP-3（ТЭЦ-3）",
+    "type": "燃煤热电厂",
+    "section": "主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 16.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "49.916732, 73.237172",
+    "status": "670 MW（可用 532 MW）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.75919,
+     49.68629
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Abayskaya Coal Mine",
+    "type": "井工",
+    "section": "周边补充（20–50km）",
+    "dist_km": 27.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "49.68629, 72.75919",
+    "status": "2023 产量 0.5 Mt",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.994863,
+     50.031766
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Qarmet 钢铁厂",
+    "type": "钢厂",
+    "section": "周边补充（20–50km）",
+    "dist_km": 27.7,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "50.031766, 72.994863",
+    "status": "粗钢约 400 万 t/a",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.053235,
+     50.04667
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Karaganda TPS-2（ТЭЦ-2）",
+    "type": "电厂",
+    "section": "周边补充（20–50km）",
+    "dist_km": 28.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "50.04667, 73.053235",
+    "status": "435 MW",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.022351,
+     50.048073
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "КМК ТЭЦ-ПВС",
+    "type": "电厂",
+    "section": "周边补充（20–50km）",
+    "dist_km": 29.0,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "50.048073, 73.022351",
+    "status": "185 MW",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.617826,
+     49.764274
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Shakhtinskaya Coal Mine",
+    "type": "煤矿",
+    "section": "周边补充（20–50km）",
+    "dist_km": 35.1,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "49.764274, 72.617826",
+    "status": "2024 产量 1.06 Mt",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.918005,
+     50.089267
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Karaganda GRES-1（ГРЭС-1）",
+    "type": "电厂",
+    "section": "周边补充（20–50km）",
+    "dist_km": 35.6,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "50.089267, 72.918005",
+    "status": "84 MW（2×42 MW）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.581348,
+     49.79279
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Tentekskaya Coal Mine",
+    "type": "煤矿",
+    "section": "周边补充（20–50km）",
+    "dist_km": 37.6,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "49.79279, 72.581348",
+    "status": "2024 产量 0（新井筒延期）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.79861,
+     49.51333
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Topar GRES-2（Топарская ГРЭС-2）",
+    "type": "电厂",
+    "section": "周边补充（20–50km）",
+    "dist_km": 38.1,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "49.51333, 72.79861",
+    "status": "773 MW",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.563474,
+     49.75044
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "Kazakhstanskaya Coal Mine",
+    "type": "煤矿",
+    "section": "周边补充（20–50km）",
+    "dist_km": 39.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "49.75044, 72.563474",
+    "status": "2025 计划 0.8 Mt",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.521954,
+     49.725506
+    ]
+   },
+   "properties": {
+    "cid": "KZ01",
+    "city": "卡拉干达",
+    "name": "V.I. Lenin 煤矿",
+    "type": "煤矿",
+    "section": "周边补充（20–50km）",
+    "dist_km": 42.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "49.725506, 72.521954",
+    "status": "2024 产量 1.4 Mt",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.038687,
+     51.488001
+    ]
+   },
+   "properties": {
+    "cid": "DE01",
+    "city": "埃森",
+    "name": "关税同盟煤矿（Zeche Zollverein）",
+    "type": "井工矿（已停产）",
+    "section": "二、主要煤炭设施",
+    "dist_km": 4.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "51.488001, 7.038687（OSM 12号井场，A/S 14 井架所在），埃森市北郊，CUFR 实测 4.9 km",
+    "status": "1986-12-23 停产；2001 年列为 UNESCO 世界遗产；现为鲁尔博物馆（Ruhr Museum，12号井）与红点设计博物馆所在地",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.037875,
+     51.490403
+    ]
+   },
+   "properties": {
+    "cid": "DE01",
+    "city": "埃森",
+    "name": "关税同盟焦化厂（Zollverein Coking Plant）",
+    "type": "焦化厂（已停产）",
+    "section": "二、主要煤炭设施",
+    "dist_km": 4.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "51.490403, 7.037875（OSM 焦化厂区），与煤矿紧邻（北侧约 300 m）",
+    "status": "1993-06-30 关闭；现为 PACT 艺术/展览中心，属世界遗产综合体一部分",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.992,
+     50.2447
+    ]
+   },
+   "properties": {
+    "cid": "PL01",
+    "city": "卡托维兹",
+    "name": "Staszic-Wujek 煤矿·1",
+    "type": "井工矿（在产）",
+    "section": "二、主要煤炭设施",
+    "dist_km": 7.0,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "Wujek 井：50.2447, 18.992（维基坐标，卡托维兹市东南城区约 4–6 km）；Staszic 井：50.2246, 19.0491（OSM 周边\"Giszowiec Kopalnia Staszic\"车站）",
+    "status": "合并后截至 2020 年代仍在生产；1981 年\"Wujek 惨案\"（罢工镇压）所在地；2009 年曾发生瓦斯爆炸事故",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.0491,
+     50.2246
+    ]
+   },
+   "properties": {
+    "cid": "PL01",
+    "city": "卡托维兹",
+    "name": "Staszic-Wujek 煤矿·2",
+    "type": "井工矿（在产）",
+    "section": "二、主要煤炭设施",
+    "dist_km": 11.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "Wujek 井：50.2447, 18.992（维基坐标，卡托维兹市东南城区约 4–6 km）；Staszic 井：50.2246, 19.0491（OSM 周边\"Giszowiec Kopalnia Staszic\"车站）",
+    "status": "合并后截至 2020 年代仍在生产；1981 年\"Wujek 惨案\"（罢工镇压）所在地；2009 年曾发生瓦斯爆炸事故",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.0491,
+     50.2246
+    ]
+   },
+   "properties": {
+    "cid": "PL01",
+    "city": "卡托维兹",
+    "name": "Murcki-Staszic 矿",
+    "type": "井工矿（在产）",
+    "section": "二、主要煤炭设施",
+    "dist_km": 11.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "卡托维兹东南部，与 Wujek 井下贯通（OSM 周边：Staszic 车站 50.2246, 19.0491）",
+    "status": "2023 时点仍属在产单元（Staszic-Wujek 合并体）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.078069,
+     50.238032
+    ]
+   },
+   "properties": {
+    "cid": "PL01",
+    "city": "卡托维兹",
+    "name": "维乔雷克矿（Wieczorek）",
+    "type": "井工矿（已关闭）",
+    "section": "二、主要煤炭设施",
+    "dist_km": 12.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "50.2380322, 19.0780692（OSM 地块：mine，Szopienicka 街，尼基索维茨区）",
+    "status": "2018 年关闭；规划改建为游戏与科技中心（1.45 亿欧元），为欧盟公正转型基金在卡托维兹最大项目之一（2024 后推进）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.444762,
+     49.831409
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Důl Lazy（Lazy 矿）",
+    "type": "井工矿（停产·清算中）",
+    "section": "2.1 煤矿与电厂",
+    "dist_km": 13.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块（landuse=industrial\"Důl Lazy\"，Orlová 境内）；捷克维基 信息框坐标 49.8296, 18.4446 一致",
+    "status": "已停产：最后一车煤 2019-11-28 运出；2020–2023 由国营 DIAMO 公司进行技术清算（地表设施保留）；2024 后：2024-07-27 爆",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.496941,
+     49.842574
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Důl ČSA（ČSA 矿）",
+    "type": "井工矿（已关闭）",
+    "section": "2.1 煤矿与电厂",
+    "dist_km": 17.3,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块（\"Důl ČSA\"，Karviná 境内）；捷克维基 信息框坐标 49.841667, 18.497222 一致",
+    "status": "2021-02 停产（捷克各矿集中退出卡维纳盆地）；2014-11-14 曾发生岩爆 3 死 9 伤",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.289353,
+     49.745232
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Důl Paskov（Paskov 矿）",
+    "type": "井工矿（已关闭）",
+    "section": "2.1 煤矿与电厂",
+    "dist_km": 8.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块（\"Důl Paskov\"，Paskov 镇）；捷克维基",
+    "status": "2017-03-31 停产（末班夜班升井）；Paskov/Staříč/Chlečovice 矿区地表移交清算",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.526379,
+     49.830148
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Důl Darkov（Darkov 矿）",
+    "type": "井工矿（已关闭）",
+    "section": "2.1 煤矿与电厂",
+    "dist_km": 19.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块（\"Důl Darkov\"，Stonava 境内）；捷克维基",
+    "status": "2021-02 停产；2015-08-06 甲烷燃爆 3 死",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.466525,
+     49.906202
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Dětmarovice 电站（Elektrárna Dětmarovice）",
+    "type": "电厂（烟煤）",
+    "section": "2.1 煤矿与电厂",
+    "dist_km": 17.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地块（landuse=industrial\"Elektrárna Dětmarovice\"）；捷克维基 信息框坐标 49.9031, 18.4692 一致（1971 动工、1975–1976 建成投运）",
+    "status": "在运：3 台机组运行中（1 台 2019 年底停运）；1998 脱硫改造、2014 脱硝改造；2024 后：2025-04 其余 3 台停运，转型生物质+燃气低",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.275616,
+     49.818178
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Lower Vítkovice（Dolní Vítkovice）",
+    "type": "旧煤-焦化-炼铁联合体（遗留）",
+    "section": "2.2 城市遗留煤炭相关设施（20 km 圈内）",
+    "dist_km": 1.2,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地物点（Vítkovice 区站台，紧邻遗产区）；俄斯特拉发市中心",
+    "status": "已停产后整体转型为工业遗产区（世界遗产候选），含高炉观景台、大礼堂等文化设施；S2 影像上仍呈大型工业地表",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.314872,
+     49.839795
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Ema 矸石堆（halda Ema）",
+    "type": "矸石堆",
+    "section": "2.2 城市遗留煤炭相关设施（20 km 圈内）",
+    "dist_km": 4.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "OSM 地物点（peak\"halda Ema\"）",
+    "status": "遗留矸堆约 2,500 万吨，局部仍在地下燃烧（燃烧区受控观察）；城市地标可徒步登顶；S2 光学波段或呈裸露矸石表面特征",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.261389,
+     49.866389
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Landek Park 矿业博物馆",
+    "type": "矿业博物馆（Anselm 矿遗址）",
+    "section": "2.2 城市遗留煤炭相关设施（20 km 圈内）",
+    "dist_km": 5.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "维基/百科",
+    "source": "维基坐标（Hornické muzeum Landek Park 信息框）",
+    "status": "开放运营；含 Anselm 矿——俄斯特拉发地区最老矿井（1835 年建），地表+井下展线",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.55174,
+     49.815797
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Důl ČSM sever（ČSM 北井）",
+    "type": "井工矿（在产）",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 21.0,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "OSM 地块（\"Důl ČSM - sever\"，Stonava）",
+    "status": "在产——2023 时点捷克唯一在产硬煤矿；2022-12-16 决定延长开采至 2025 年；2024 后：2026-02-01 采掘结束（技术清算至 2028",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.555142,
+     49.801981
+    ]
+   },
+   "properties": {
+    "cid": "CZ01",
+    "city": "俄斯特拉发",
+    "name": "Důl ČSM jih（ČSM 南井）",
+    "type": "井工矿（在产）",
+    "section": "三、周边补充（20–50 km）",
+    "dist_km": 21.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "OSM 地块（\"Důl ČSM - jih\"，Stonava）",
+    "status": "在产（同北井）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.46056,
+     54.98556
+    ]
+   },
+   "properties": {
+    "cid": "GB01",
+    "city": "纽卡斯尔",
+    "name": "泰恩港（Port of Tyne）",
+    "type": "港口（综合/散货）",
+    "section": "二、主要煤炭设施（现存/遗留）",
+    "dist_km": 5.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "维基/百科",
+    "source": "54.98556, -1.46056（维基坐标 54°59′08″N 1°27′38″W；港区覆盖泰恩河口至 Wylam 约 17 英里）",
+    "status": "在营综合港（2023 时点：在营）；以汽车滚装为主，煤炭贸易已退出（2020 年自由港申请未通过）；导航辖区延续至今",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63664,
+     54.95765
+    ]
+   },
+   "properties": {
+    "cid": "GB01",
+    "city": "纽卡斯尔",
+    "name": "Dunston Staiths（邓斯顿煤炭栈桥）",
+    "type": "煤码头（停用遗产）",
+    "section": "二、主要煤炭设施（现存/遗留）",
+    "dist_km": 6.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "54.95765, -1.63664（OSM pier 条目，Photon 检索）",
+    "status": "1980 年关闭；2003/2010/2019/2020 年多次火灾；2024 年 4 月 11 日重新向公众开放（历史展示）（2024 后）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.51387,
+     55.13298
+    ]
+   },
+   "properties": {
+    "cid": "GB01",
+    "city": "纽卡斯尔",
+    "name": "布莱斯港（Port of Blyth，历史煤港）",
+    "type": "港口（历史上煤出口）",
+    "section": "二、主要煤炭设施（现存/遗留）",
+    "dist_km": 16.3,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "55.13298, -1.51387（OSM industrial 条目，Photon 检索）",
+    "status": "已转型（含离岸风电等）；2023 年煤炭吞吐量未获本次检索确认，标注待核实",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.455146,
+     44.365496
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Wyodak Coal Mine",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 9.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.365496, -105.455146",
+    "status": "Operating（1950 年起开采）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3981,
+     44.1513
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Caballo Mine",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 17.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.1513, -105.3981",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.394855,
+     44.151037
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Rawhide Mine",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 17.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.151037, -105.394855",
+    "status": "Operating（与 Caballo 相邻）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.387451,
+     44.286754
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Wygen III",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 9.0,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.286754, -105.387451（GEM）",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3833,
+     44.2858
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Wygen I",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 9.3,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.2858, -105.3833",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3833,
+     44.2857
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Neil Simpson II",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 9.3,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.2857, -105.3833",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3815,
+     44.2901
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Wyodak Generating Station",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 9.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.2901, -105.3815",
+    "status": "Operating；计划 2038 退役",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3811,
+     44.2919
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Wygen II",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 9.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.2919, -105.3811",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3878,
+     44.2872
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Neil Simpson I",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 8.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.2872, -105.3878",
+    "status": "已关闭（2014）；痕迹仍在影像中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.461327,
+     44.387442
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Dry Fork Station",
+    "type": "",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 11.3,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "44.387442, -105.461327（GEM）",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.5395,
+     44.4742
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Buckskin Mine",
+    "type": "露天煤矿",
+    "section": "三、周边补充（20–50km）",
+    "dist_km": 20.7,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "44.4742, -105.5395",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.42811,
+     44.09744
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Belle Ayr Mine",
+    "type": "露天煤矿",
+    "section": "三、周边补充（20–50km）",
+    "dist_km": 22.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "44.09744, -105.42811",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.3828,
+     44.0396
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Cordero Rojo Mine",
+    "type": "露天煤矿",
+    "section": "三、周边补充（20–50km）",
+    "dist_km": 29.4,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "44.0396, -105.3828",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.291763,
+     43.948918
+    ]
+   },
+   "properties": {
+    "cid": "US01",
+    "city": "吉列",
+    "name": "Coal Creek Mine",
+    "type": "露天煤矿",
+    "section": "三、周边补充（20–50km）",
+    "dist_km": 41.4,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "43.948918, -105.291763",
+    "status": "Operating",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.936534,
+     32.824808
+    ]
+   },
+   "properties": {
+    "cid": "US02",
+    "city": "查尔斯顿",
+    "name": "Shipyard River Coal Terminal",
+    "type": "私营煤/散货码头",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 6.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "32.824808, -79.936534（GEM 地图）",
+    "status": "Operating（GEM 记录）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.924,
+     32.7846
+    ]
+   },
+   "properties": {
+    "cid": "US02",
+    "city": "查尔斯顿",
+    "name": "Port of Charleston（Union Pier 等公共码头）",
+    "type": "集装箱/综合港口",
+    "section": "二、主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 1.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "维基/百科",
+    "source": "32.7846, -79.924（Wikipedia infobox）",
+    "status": "在运；煤炭由私营码头处理",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.78917,
+     -32.92385
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Port of Newcastle 港区（全球最大煤炭出口港）",
+    "type": "",
+    "section": "1. Port of Newcastle 港区（全球最大煤炭出口港）",
+    "dist_km": 7.1,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-32.92385, 151.78917（OSM commercial 条目，Photon 检索；港区含 Dyke Point 一带多座码头），距中心 7.1 km",
+    "status": "- 状态：运营中（2023 时点：运营中）；2014 年起由 Port of Newcastle 联合体（澳洲基建基金 50% + 招商局 50%）99 年租赁",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.77024,
+     -32.90411
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Carrington 煤炭码头（PWCS）·1",
+    "type": "",
+    "section": "2. Carrington 煤炭码头（PWCS）",
+    "dist_km": 5.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-32.90411, 151.77024（OSM \"PWCS Carrington Terminal Berth Area\"，Photon 检索；码头区含 Dyke Point 一带 -32.92333, 151.77611），距",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.77611,
+     -32.92333
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Carrington 煤炭码头（PWCS）·2",
+    "type": "",
+    "section": "2. Carrington 煤炭码头（PWCS）",
+    "dist_km": 5.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-32.90411, 151.77024（OSM \"PWCS Carrington Terminal Berth Area\"，Photon 检索；码头区含 Dyke Point 一带 -32.92333, 151.77611），距",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.77125,
+     -32.88726
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Kooragang 煤炭码头（PWCS）·1",
+    "type": "",
+    "section": "3. Kooragang 煤炭码头（PWCS）",
+    "dist_km": 7.0,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-32.88726, 151.77125（OSM \"PWCS Kooragang Terminal Berth Area\"，Photon 检索；码头区工业地块 -32.87850, 151.77351），距中心 7.0–7.8 k",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.77351,
+     -32.8785
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Kooragang 煤炭码头（PWCS）·2",
+    "type": "",
+    "section": "3. Kooragang 煤炭码头（PWCS）",
+    "dist_km": 7.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-32.88726, 151.77125（OSM \"PWCS Kooragang Terminal Berth Area\"，Photon 检索；码头区工业地块 -32.87850, 151.77351），距中心 7.0–7.8 k",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.7545,
+     -32.87496
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "NCIG 煤炭出口码头（Newcastle Coal Infrastructure Group）",
+    "type": "",
+    "section": "4. NCIG 煤炭出口码头（Newcastle Coal Infrastructure Group）",
+    "dist_km": 7.0,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-32.87496, 151.75450（OSM industrial 条目，Photon 检索），距中心 7.0 km；位于 Kooragang 岛东侧",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.708594,
+     -32.813237
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Newcastle 燃气电站（Tomago GT，已取消，原规划）",
+    "type": "",
+    "section": "5. Newcastle 燃气电站（Tomago GT，已取消，原规划）",
+    "dist_km": 12.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-32.813237, 151.708594（exact，GEM），距中心 12.7 km（程序复核一致）；位于 Tomago",
+    "status": "- 状态：已取消（Cancelled）；原规划 250 MW 天然气/柴油内燃机组；业主曾为 AGL Energy",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.521359,
+     -33.06223
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Eraring 燃煤电厂（2,880 MW）",
+    "type": "",
+    "section": "6. Eraring 燃煤电厂（2,880 MW）",
+    "dist_km": 23.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-33.06223, 151.521359（exact，GEM），距中心 23.3 km（程序复核一致）；位于 Dora Creek，Lake Macquarie",
+    "status": "- 状态：运营中（2023 时点：运营中，当时官方退役计划为 2025 年）；经 2023-2024 州政府磋商延至 2029 年退役（2024 后确定；202",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.545252,
+     -33.161012
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Vales Point 燃煤电厂（660 MW）",
+    "type": "",
+    "section": "7. Vales Point 燃煤电厂（660 MW）",
+    "dist_km": 30.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-33.161012, 151.545252（exact，GEM），距中心 30.3 km（程序复核一致）；位于 Mannering Park（Lake Macquarie）",
+    "status": "- 状态：运营中（2023 时点：运营中）；计划 2033 年退役（GEM）；业主 Delta Power & Energy（Vales Point）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.978421,
+     -32.3716
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Liddell 燃煤电厂（已退役，4×500 MW）",
+    "type": "",
+    "section": "8. Liddell 燃煤电厂（已退役，4×500 MW）",
+    "dist_km": 92.5,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-32.3716, 150.978421（exact，GEM），距中心 92.5 km（程序复核一致）；位于 Muswellbrook",
+    "status": "- 状态：2022–2023 全部退役（Unit3 2022、Unit1/2/4 2023）——2023 时点：已全部退役；1971–1973 投运；业主 AG",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.9492,
+     -32.395
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Bayswater 燃煤电厂（4×660 MW）",
+    "type": "",
+    "section": "9. Bayswater 燃煤电厂（4×660 MW）",
+    "dist_km": 92.8,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-32.395, 150.9492（exact，GEM），距中心约 92.8 km；位于 Muswellbrook 猎人谷",
+    "status": "- 状态：运营中；计划 2033 年退役；另有取消的 B 期（Bayswater B，2000 年取消）；业主 AGL",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.05,
+     -32.57
+    ]
+   },
+   "properties": {
+    "cid": "AU01",
+    "city": "纽卡斯尔",
+    "name": "Mount Thorley Warkworth（MTW）煤矿",
+    "type": "",
+    "section": "10. Mount Thorley Warkworth（MTW）煤矿",
+    "dist_km": 73.6,
+    "within20": 0,
+    "ring": "near",
+    "grade": "估算",
+    "source": "- 坐标：-32.57, 151.05（估算），距中心约 73.6 km；猎人谷上层",
+    "status": "- 状态：运营中；核定产能约 2,800 万吨/年（雪球/兖煤澳洲资料）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.22003,
+     -21.10639
+    ]
+   },
+   "properties": {
+    "cid": "AU02",
+    "city": "麦凯",
+    "name": "Mackay 港（Pioneer 河口）·1",
+    "type": "",
+    "section": "1. Mackay 港（Pioneer 河口）",
+    "dist_km": 4.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-21.10639, 149.22003（OSM industrial 条目，Photon 检索；另有港区湾域 -21.10511, 149.22733），距中心 4.9 km",
+    "status": "- 状态：运营中（2023 时点：运营中）；非煤炭专用，但港区与煤炭物流相关",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.22733,
+     -21.10511
+    ]
+   },
+   "properties": {
+    "cid": "AU02",
+    "city": "麦凯",
+    "name": "Mackay 港（Pioneer 河口）·2",
+    "type": "",
+    "section": "1. Mackay 港（Pioneer 河口）",
+    "dist_km": 5.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-21.10639, 149.22003（OSM industrial 条目，Photon 检索；另有港区湾域 -21.10511, 149.22733），距中心 4.9 km",
+    "status": "- 状态：运营中（2023 时点：运营中）；非煤炭专用，但港区与煤炭物流相关",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.29296,
+     -21.27681
+    ]
+   },
+   "properties": {
+    "cid": "AU02",
+    "city": "麦凯",
+    "name": "Hay Point 煤炭码头（BMA）·1",
+    "type": "",
+    "section": "2. Hay Point 煤炭码头（BMA）",
+    "dist_km": 18.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-21.27681, 149.29296（OSM industrial 条目，Photon 检索；昆州波浪监测站 -21.227, 149.297 为海面测点仅作参考），距中心 18.6 km；位于 Hay Point 港，麦凯以",
+    "status": "- 类型：煤炭出口码头；运营状态（1971 年投运，1975 年增第二泊位）——2023 时点：运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.297,
+     -21.227
+    ]
+   },
+   "properties": {
+    "cid": "AU02",
+    "city": "麦凯",
+    "name": "Hay Point 煤炭码头（BMA）·2",
+    "type": "",
+    "section": "2. Hay Point 煤炭码头（BMA）",
+    "dist_km": 14.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-21.27681, 149.29296（OSM industrial 条目，Photon 检索；昆州波浪监测站 -21.227, 149.297 为海面测点仅作参考），距中心 18.6 km；位于 Hay Point 港，麦凯以",
+    "status": "- 类型：煤炭出口码头；运营状态（1971 年投运，1975 年增第二泊位）——2023 时点：运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.28379,
+     -21.28442
+    ]
+   },
+   "properties": {
+    "cid": "AU02",
+    "city": "麦凯",
+    "name": "Dalrymple Bay 煤炭码头（DBCT）",
+    "type": "",
+    "section": "3. Dalrymple Bay 煤炭码头（DBCT）",
+    "dist_km": 18.8,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "- 坐标：-21.28442, 149.28379（OSM industrial 条目，Photon 检索），距中心 18.8 km；紧邻 Hay Point",
+    "status": "- 类型：出口码头；运营状态（1983 年投运）——2023 时点：运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.962045,
+     -21.792321
+    ]
+   },
+   "properties": {
+    "cid": "AU02",
+    "city": "麦凯",
+    "name": "Goonyella-Riverside 煤矿（BMA）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 146.3,
+    "within20": 0,
+    "ring": "background",
+    "grade": "exact(GEM)",
+    "source": "-21.792321, 147.962045",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.179657,
+     -22.2549
+    ]
+   },
+   "properties": {
+    "cid": "AU02",
+    "city": "麦凯",
+    "name": "Peak Downs 煤矿（BMA）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 162.1,
+    "within20": 0,
+    "ring": "background",
+    "grade": "exact(GEM)",
+    "source": "-22.2548999, 148.1796569",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.299848,
+     -22.371371
+    ]
+   },
+   "properties": {
+    "cid": "AU02",
+    "city": "麦凯",
+    "name": "Saraji 煤矿（BMA）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 164.9,
+    "within20": 0,
+    "ring": "background",
+    "grade": "exact(GEM)",
+    "source": "-22.371371, 148.299848",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.078,
+     -19.382
+    ]
+   },
+   "properties": {
+    "cid": "AU02",
+    "city": "麦凯",
+    "name": "North Queensland Export Terminal（Abbot Point，Adani）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 227.3,
+    "within20": 0,
+    "ring": "background",
+    "grade": "exact(GEM)",
+    "source": "-19.382, 148.078",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.155635,
+     -25.926243
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Khwezela 煤矿（含原 Landau + Kleinkopje 合并）",
+    "type": "",
+    "section": "1. Khwezela 煤矿（含原 Landau + Kleinkopje 合并）",
+    "dist_km": 8.3,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 类型：露天+井工（opencast/underground）；坐标 -25.926243, 29.155635（exact，GEM），距中心约 8.3 km",
+    "status": "- 状态：2023 年前后运营中（Thungela 7 大矿区之一，经 Wayback 2023/2024 官网确认）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.18545,
+     -25.960979
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Greenside 煤矿（Greenside Colliery）",
+    "type": "",
+    "section": "2. Greenside 煤矿（Greenside Colliery）",
+    "dist_km": 8.9,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 类型：露天+井工（opencast/underground）；坐标 -25.960979, 29.18545（exact，GEM），距中心约 8.9 km",
+    "status": "- 业主：Thungela（2021 年分拆自 Anglo）；状态：2023 年运营中（Thungela 7 大矿区之一）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.337222,
+     -25.963889
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Duvha 电厂（Duvha Power Station）",
+    "type": "",
+    "section": "3. Duvha 电厂（Duvha Power Station）",
+    "dist_km": 13.5,
+    "within20": 1,
+    "ring": "core",
+    "grade": "维基/百科",
+    "source": "- 类型：燃煤电厂（Eskom）；坐标 -25.96388889, 29.33722222（Wikipedia infobox），距中心约 13.5 km",
+    "status": "- 规模：装机 3,600 MW（6×600 MW）；2023 年前后运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.460556,
+     -25.899444
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "MMS（Middelburg Mine Services，原 Wolvekrans-Middelburg Complex）",
+    "type": "",
+    "section": "1. MMS（Middelburg Mine Services，原 Wolvekrans-Middelburg Complex）",
+    "dist_km": 23.2,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标 -25.899444, 29.460556（exact，GEM），距 eMalahleni 中心约 23.2 km",
+    "status": "- 业主：Seriti（2021 年 6 月从 South32 收购 SAEC 获得）；状态：2023 年运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.03329,
+     -26.037399
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Klipspruit 煤矿（Seriti）",
+    "type": "",
+    "section": "2. Klipspruit 煤矿（Seriti）",
+    "dist_km": 25.4,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "- 坐标：-26.037399, 29.033290（OSM 地块，mine），距 eMalahleni 中心约 25.4 km（原报告\"Ogies 附近 5km\"估算坐标已替换为 OSM 实测地块中心，位于 Ogies 镇西南）",
+    "status": "- 业主：Seriti（2021 年 6 月从 South32 收购）；状态：2023 年运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.025508,
+     -26.0525
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Phola 洗煤厂（Phola Coal Processing Plant）",
+    "type": "",
+    "section": "3. Phola 洗煤厂（Phola Coal Processing Plant）",
+    "dist_km": 27.1,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "OSM",
+    "source": "- 坐标：-26.052500, 29.025508（OSM 地块，industrial），距 eMalahleni 约 27.1 km（与 Klipspruit 同区，Ogies/Phola 镇附近；原估算坐标已替换为 OSM 实测）",
+    "status": "- 状态：2023 年运营中；洗选 Klipspruit/Phola 周边出口煤",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.407282,
+     -26.103399
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Goedehoop 煤矿（Thungela）",
+    "type": "",
+    "section": "4. Goedehoop 煤矿（Thungela）",
+    "dist_km": 29.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-26.1033988, 29.407282（exact，GEM），距 eMalahleni 约 29.5 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.471944,
+     -26.09
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Komati 电厂（Eskom）",
+    "type": "",
+    "section": "5. Komati 电厂（Eskom）",
+    "dist_km": 32.8,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "维基/百科",
+    "source": "- 坐标：-26.09, 29.47194444（Wikipedia），距 eMalahleni 约 32.8 km",
+    "status": "- 规模：1,000 MW（9 台）；状态：2022 年 10 月起因无长期煤供应协议进入维护性停机（GEM/Wikipedia）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.968796,
+     -26.090285
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Kendal 电厂（Eskom）",
+    "type": "",
+    "section": "6. Kendal 电厂（Eskom）",
+    "dist_km": 34.1,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-26.090285, 28.968796（exact，GEM），距 eMalahleni 约 34.1 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.003424,
+     -26.124001
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Khutala 煤矿（Seriti）",
+    "type": "",
+    "section": "7. Khutala 煤矿（Seriti）",
+    "dist_km": 34.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-26.124001, 29.003424（exact，GEM），距 eMalahleni 约 34.3 km",
+    "status": "- 状态：2023 年运营中（井工+露天，bord-and-pillar）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.136045,
+     -26.225785
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Kriel 煤矿（Seriti）",
+    "type": "",
+    "section": "8. Kriel 煤矿（Seriti）",
+    "dist_km": 38.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-26.225785, 29.136045（exact，GEM），距 eMalahleni 约 38.3 km",
+    "status": "- 状态：2023 年运营中（井工 bord-and-pillar + 露天 dragline）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.611491,
+     -26.004847
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Optimum 煤矿（Optimum Coal Mine）",
+    "type": "",
+    "section": "9. Optimum 煤矿（Optimum Coal Mine）",
+    "dist_km": 40.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-26.0048466, 29.6114906（exact，GEM），距 eMalahleni 约 40.3 km",
+    "status": "- 状态：2022 年进入 Care & Maintenance（此前因供 Hendrina 电厂关闭而停产；2020-2022 业务救助）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.17944,
+     -26.2542
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Kriel 电厂（Eskom）",
+    "type": "",
+    "section": "10. Kriel 电厂（Eskom）",
+    "dist_km": 40.6,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "维基/百科",
+    "source": "- 坐标：-26.2542, 29.17944（Wikipedia），距 eMalahleni 约 40.6 km",
+    "status": "- 规模：3,000 MW（6×500）；状态：2023 年前后运营中（Eskom 主要电厂之一）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.00846,
+     -26.199428
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Zibulo 煤矿（Thungela 73% / Inyosi Coal 27%）",
+    "type": "",
+    "section": "11. Zibulo 煤矿（Thungela 73% / Inyosi Coal 27%）",
+    "dist_km": 40.7,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-26.1994277, 29.0084596（exact，GEM），距 eMalahleni 约 40.7 km",
+    "status": "- 状态：2023 年运营中（出口+国内）；Thungela 7 矿区之一",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.12681,
+     -26.26345
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Matla 煤矿（Exxaro）",
+    "type": "",
+    "section": "12. Matla 煤矿（Exxaro）",
+    "dist_km": 42.6,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-26.26345, 29.12681（exact，GEM），距 eMalahleni 约 42.6 km",
+    "status": "- 状态：2023 年运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.140833,
+     -26.2825
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Matla 电厂（Eskom）",
+    "type": "",
+    "section": "13. Matla 电厂（Eskom）",
+    "dist_km": 44.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "维基/百科",
+    "source": "- 坐标：-26.2825, 29.14083333（Wikipedia），距 eMalahleni 约 44.3 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.737834,
+     -25.794651
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Mafube 煤矿（Exxaro/Anglo 各 50%）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 52.0,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "-25.794651, 29.737834",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.77476,
+     -25.934846
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Arnot 煤矿（封存）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 54.8,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "-25.934846, 29.774760",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.78956,
+     -25.94384
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Arnot 电厂（Eskom）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 56.4,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "-25.94384, 29.78956",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.208912,
+     -26.435276
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "Isibonelo 煤矿（Thungela）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 60.5,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "-26.435276, 29.208912",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.309011,
+     -26.74005
+    ]
+   },
+   "properties": {
+    "cid": "ZA01",
+    "city": "eMalahleni",
+    "name": "New Denmark 煤矿（Seriti）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 94.7,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "-26.740050, 29.309011",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.460556,
+     -25.899444
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "MMS（Middelburg Mine Services）",
+    "type": "",
+    "section": "1. MMS（Middelburg Mine Services）",
+    "dist_km": 14.6,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-25.899444, 29.460556（exact，GEM），距 Middelburg CUFR 中心约 14.6 km",
+    "status": "- 业主：Seriti（2021-06 从 South32/SAEC 收购）；状态：2023 年运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.337222,
+     -25.963889
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Duvha 电厂（Eskom）",
+    "type": "",
+    "section": "1. Duvha 电厂（Eskom）",
+    "dist_km": 24.6,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "维基/百科",
+    "source": "- 坐标：-25.963889, 29.337222（Wikipedia infobox），距 Middelburg 约 24.6 km",
+    "status": "- 规模：3,600 MW（6×600 MW）；2023 年前后运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.737834,
+     -25.794651
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Mafube 煤矿（Exxaro / Anglo 各 50%）",
+    "type": "",
+    "section": "2. Mafube 煤矿（Exxaro / Anglo 各 50%）",
+    "dist_km": 28.9,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-25.794651, 29.737834（exact，GEM），距 Middelburg 约 28.9 km",
+    "status": "- 产能：约 4.5 Mtpa 出口（RBCT）；状态：2023 年运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.611471,
+     -26.004847
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Optimum 煤矿（Optimum Coal Mine）",
+    "type": "",
+    "section": "3. Optimum 煤矿（Optimum Coal Mine）",
+    "dist_km": 30.8,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-26.004847, 29.611471（exact，GEM），距 Middelburg 约 30.8 km",
+    "status": "- 状态：2022 年进入 Care & Maintenance（此前因供 Hendrina 电厂关闭而停产；2020-2022 业务救助）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.18545,
+     -25.960979
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Greenside 煤矿（Thungela）",
+    "type": "",
+    "section": "4. Greenside 煤矿（Thungela）",
+    "dist_km": 34.1,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-25.960979, 29.18545（exact，GEM），距 Middelburg 约 34.1 km",
+    "status": "- 类型：露天+井工；业主 Thungela（2021 年分拆自 Anglo）；2023 年运营中（Thungela 7 大矿区之一）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.155635,
+     -25.926243
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Khwezela 煤矿（Thungela）",
+    "type": "",
+    "section": "5. Khwezela 煤矿（Thungela）",
+    "dist_km": 34.4,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-25.926243, 29.155635（exact，GEM），距 Middelburg 约 34.4 km",
+    "status": "- 类型：露天+井工；原 Landau 煤矿 + Kleinkopje 煤矿合并后的运营单元；业主 Thungela；2023 年运营中",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.471944,
+     -26.09
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Komati 电厂（Eskom）",
+    "type": "",
+    "section": "6. Komati 电厂（Eskom）",
+    "dist_km": 35.9,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "维基/百科",
+    "source": "- 坐标：-26.09, 29.47194444（Wikipedia），距 Middelburg 约 35.9 km",
+    "status": "- 规模：1,000 MW（9 台）；状态：2022 年 10 月起因无长期煤供应协议进入维护性停机（GEM/Wikipedia）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.77476,
+     -25.934846
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Arnot 煤矿（已闭矿/封存）",
+    "type": "",
+    "section": "7. Arnot 煤矿（已闭矿/封存）",
+    "dist_km": 37.3,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-25.9348458, 29.7747599（exact，GEM），距 Middelburg 约 37.3 km",
+    "status": "- 状态：2015 年关闭，mothballed；曾被收购尝试重启（2020-2022 期间谈判）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.407282,
+     -26.103399
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Goedehoop 煤矿（Thungela）",
+    "type": "",
+    "section": "8. Goedehoop 煤矿（Thungela）",
+    "dist_km": 37.5,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "exact(GEM)",
+    "source": "- 坐标：-26.1033988, 29.407282（exact，GEM），距 Middelburg 约 37.5 km",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.78956,
+     -25.94384
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Arnot 电厂（Eskom）",
+    "type": "",
+    "section": "9. Arnot 电厂（Eskom）",
+    "dist_km": 39.1,
+    "within20": 0,
+    "ring": "buffer",
+    "grade": "维基/百科",
+    "source": "- 坐标：-25.94384, 29.78956（Wikipedia），距 Middelburg 约 39.1 km",
+    "status": "- 规模：2,100 MW（6×350）；状态：2020-2024 期间机组逐步退役/关闭（部分机组由私人购电重启计划未落实）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.208912,
+     -26.435276
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "Isibonelo 煤矿（Thungela）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 78.0,
+    "within20": 0,
+    "ring": "near",
+    "grade": "exact(GEM)",
+    "source": "-26.435276, 29.208912",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.309011,
+     -26.74005
+    ]
+   },
+   "properties": {
+    "cid": "ZA02",
+    "city": "米德尔堡",
+    "name": "New Denmark 煤矿（Seriti）",
+    "type": "",
+    "section": "四、背景参考（50km 以外，供上下文）",
+    "dist_km": 109.0,
+    "within20": 0,
+    "ring": "background",
+    "grade": "exact(GEM)",
+    "source": "-26.740050, 29.309011",
+    "status": "",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.662926,
+     11.033988
+    ]
+   },
+   "properties": {
+    "cid": "CO01",
+    "city": "塞雷洪",
+    "name": "Cerrejón 煤矿主体（North/Central/Patilla/South 四采区）",
+    "type": "Cerrejón 煤矿主体（North/Central/Patilla/South 四采区）",
+    "section": "主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 12.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "https://www.gem.wiki/Cerrej%C3%B3n_Coal_Mine",
+    "status": "运行中（2023 时点：运行中，产量 22.0 Mt）；2034 特许到期计划关闭（远期）",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6437,
+     11.04417
+    ]
+   },
+   "properties": {
+    "cid": "CO01",
+    "city": "塞雷洪",
+    "name": "甲烷羽流观测点（矿坑冒漏处）",
+    "type": "甲烷羽流观测点（矿坑冒漏处）",
+    "section": "主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 13.7,
+    "within20": 1,
+    "ring": "core",
+    "grade": "exact(GEM)",
+    "source": "GEM 矿区页（引 CarbonMapper）",
+    "status": "2023 年 3 月检测到排放",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.57208,
+     11.10595
+    ]
+   },
+   "properties": {
+    "cid": "CO01",
+    "city": "塞雷洪",
+    "name": "Tabaco 社区（2001 年拆迁争议地）",
+    "type": "Tabaco 社区（2001 年拆迁争议地）",
+    "section": "主要煤炭设施（CUFR 20km 内）",
+    "dist_km": 19.4,
+    "within20": 1,
+    "ring": "core",
+    "grade": "OSM",
+    "source": "https://londonminingnetwork.org/2024/07/tabaco-23-years/",
+    "status": "2001 年强拆，2020 年 Wayuu 社区请求联合国停止开采",
+    "note": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.962785,
+     12.261003
+    ]
+   },
+   "properties": {
+    "cid": "CO01",
+    "city": "塞雷洪",
+    "name": "Puerto Bolívar Coal Terminal",
+    "type": "煤炭出口港（含 P40 新码头）",
+    "section": "周边补充（20–60km 及主要关联设施）",
+    "dist_km": 154.0,
+    "within20": 0,
+    "ring": "background",
+    "grade": "exact(GEM)",
+    "source": "https://www.gem.wiki/Puerto_Bolivar_Coal_Terminal",
+    "status": "运行中；2023 吞吐 20.64 Mt（2019: 26.23、2022: 16.97、2024: 20.26、2025: 16.66，来源哥伦比亚 Supe",
+    "note": ""
+   }
+  }
+ ]
+}

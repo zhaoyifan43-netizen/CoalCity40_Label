@@ -1,0 +1,6 @@
+﻿issue,pixel_count,handling
+generic_candidate_overlap,998627,两个或更多通用候选家族重叠；复合标签回退为 255
+evidence_polygon_overlap,0,多个煤炭功能证据多边形重叠；回退为 255，需解决证据冲突
+uncertain_bare,4864899,可能为普通裸地、施工地或煤炭相关裸露地表，未强制定类
+uncertain_vegetation,562495,植被类型无法仅靠当前影像可靠细分
+small_components_removed,344435,小斑块从部分候选类别中移出，供复核；未直接改写原始数据

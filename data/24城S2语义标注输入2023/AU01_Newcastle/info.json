@@ -1,0 +1,26 @@
+{
+ "id": "AU01",
+ "name": "Newcastle",
+ "epsg": 32756,
+ "radius_km": 20.0,
+ "date": "2023-09-16",
+ "scenes": [
+  "S2B_T56HLJ_20230916T000412_L2A"
+ ],
+ "cloud_max_pct": 0.004262,
+ "cover": 1.0,
+ "cn": "纽卡斯尔",
+ "country": "Australia",
+ "lon": 151.713,
+ "lat": -32.92743,
+ "utm_center": [
+  379671.32,
+  6356023.44
+ ],
+ "utm_bbox": [
+  359670,
+  6336020,
+  399680,
+  6376030
+ ]
+}

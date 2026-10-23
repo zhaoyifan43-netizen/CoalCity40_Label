@@ -1,0 +1,31 @@
+CoalCity-40 Datong batch pre-annotation v2.3
+STATUS: provisional only; not final ground truth
+Input: D:\CoalCity\input\CN01_Datong
+CUFR boundary: D:\CoalCity\input\CN01_Datong\CN01_CUFR_circle_UTM.geojson
+Grid: 4001 x 4001; CUFR pixels=12562650
+Scipy connected-component filtering: True
+Minimum component pixels: 9
+Evidence polygons used:
+  Facility survey coordinates from the library were used as candidate context only. No verified facility polygons were supplied by this script run.
+
+Component filter notes:
+  water: removed components smaller than 4 pixels
+  tree vegetation: removed components smaller than 9 pixels
+  grass vegetation: removed components smaller than 9 pixels
+  strict bare: removed components smaller than 9 pixels
+  dense built: removed components smaller than 9 pixels
+  sparse built: removed components smaller than 9 pixels
+
+Rules/limitations:
+- Bare-ground class 5 is strict; ambiguous exposed land remains review candidate.
+- Vegetation labels require SCL + NDVI + local neighborhood consistency; ambiguous vegetation remains 255.
+- Built-up classes 0/1 are heuristic provisional, not verified building extraction.
+- Cropland and roads are candidate-only; spectral data alone cannot establish land use/linear road boundaries robustly.
+- v2.3 class 11: documented Datong No.2 Power Plant function evidence is combined with image-derived built candidates in a 250m search window; confidence=4 means evidence-supported automatic prelabel, NOT human-verified.
+- Classes 8, 9, 10 and 12 remain review-only unless class-specific independent evidence polygons are supplied; point proximity/spectral appearance alone is insufficient under the annotation spec.
+- Facility locator buffers are not directly burned as labels; class 11 only assigns candidate pixels derived from the image inside the bounded search window.
+- Class 10 requires documented subsidence spatial/history evidence; water shape alone is insufficient.
+- v2.1 conflict detection only uses masks eligible for provisional label assignment; broad bare, crop, road and coal candidate masks do not erase labels.
+- Coal candidate rules were narrowed; they are still investigation hints, not automatic coal-function confirmation.
+- Class conflicts are set to 255. SCL Ignore classes remain 255.
+- Output does not overwrite prior versions. Confidence 4 is automated evidence-supported prelabel only, not human verification.
